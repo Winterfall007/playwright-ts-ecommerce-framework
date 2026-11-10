@@ -1,0 +1,185 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fmas-newen
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "To curl" [ref=e83] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                      - generic [ref=e84]: To curl
+                  - listitem [ref=e85]:
+                    - link "Wavy" [ref=e86] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                      - generic [ref=e87]: Wavy
+                  - listitem [ref=e88]:
+                    - link "Signature Curly Highlights" [ref=e89] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                      - generic [ref=e90]: Signature Curly Highlights
+                  - listitem [ref=e91]:
+                    - link "Grey Blending" [ref=e92] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+                      - generic [ref=e93]: Grey Blending
+              - listitem [ref=e94]:
+                - link "Products Toggle Products submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e96]: Products
+                  - button "Toggle Products submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Hairdressing training" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e103]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e106]: Gallery
+              - listitem [ref=e107]:
+                - link "Shop Toggle Shop submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e109]: Shop
+                  - button "Toggle Shop submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Contact" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e116]: Contact
+          - generic [ref=e117]:
+            - region "Header Widget 1" [ref=e119]
+            - link "Instagram" [ref=e128] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e130]
+    - main [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e137]:
+          - img [ref=e144]
+          - generic [ref=e176]:
+            - heading "Mas Newen Haircare focuses on healthy, sustainable, and probiotic hair care." [level=4] [ref=e178]:
+              - generic [ref=e179]: Mas Newen Haircare focuses on healthy, sustainable, and probiotic hair care.
+            - generic [ref=e181]:
+              - generic [ref=e182]:
+                - paragraph [ref=e184]:
+                  - generic [ref=e185]: It combines high-quality ingredients with innovative formulas to make the hair not only beautiful, but also strong and resilient.
+                - figure [ref=e188]
+                - figure [ref=e190]
+              - generic [ref=e191]:
+                - figure [ref=e193]
+                - generic [ref=e194]:
+                  - paragraph [ref=e196]:
+                    - generic [ref=e197]: The products are fermented and full of probiotic ingredients. This ensures that the products retain their plant-based power.
+                  - paragraph [ref=e198]:
+                    - generic [ref=e199]: All products are natural, organic, vegan, cruelty-free, contain no microplastics, and come in bottles made of 100% recycled plastic.
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - heading "Yes" [level=5] [ref=e203]:
+                - generic [ref=e204]: "Yes"
+              - list [ref=e205]:
+                - listitem [ref=e206]:
+                  - generic [ref=e207]: Probiotic
+                - listitem [ref=e208]:
+                  - generic [ref=e209]: Plant-based
+                - listitem [ref=e210]:
+                  - generic [ref=e211]: Cruelty free
+                - listitem [ref=e212]:
+                  - generic [ref=e213]: Vegan
+                - listitem [ref=e214]:
+                  - generic [ref=e215]: Bio-available
+                - listitem [ref=e216]:
+                  - generic [ref=e217]: Microbiome supportive
+                - listitem [ref=e218]:
+                  - generic [ref=e219]: ECO-CG friendly
+                - listitem [ref=e220]:
+                  - generic [ref=e221]: 100% recycled plastic (RPET) bottles
+            - generic [ref=e222]:
+              - heading "No" [level=5] [ref=e223]:
+                - generic [ref=e224]: "No"
+              - list [ref=e225]:
+                - listitem [ref=e226]:
+                  - generic [ref=e227]: Alcohol
+                - listitem [ref=e228]:
+                  - generic [ref=e229]: Microbeads
+                - listitem [ref=e230]:
+                  - generic [ref=e231]: Parabens
+                - listitem [ref=e232]:
+                  - generic [ref=e233]: SLS/SLES
+                - listitem [ref=e234]:
+                  - generic [ref=e235]: Sulfates
+                - listitem [ref=e236]:
+                  - generic [ref=e237]: Glycerin
+                - listitem [ref=e238]:
+                  - generic [ref=e239]: Palm oil
+                - listitem [ref=e240]:
+                  - generic [ref=e241]: Synthetics
+          - link "Back to Products" [ref=e245] [cursor=pointer]:
+            - /url: https://corneliaorganics.com/producten/
+            - generic [ref=e246]: Back to Products
+    - contentinfo [ref=e247]:
+      - generic [ref=e250]:
+        - link "Instagram" [ref=e255] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e257]
+          - generic [ref=e260]: Instagram
+        - generic [ref=e263]:
+          - paragraph [ref=e264]:
+            - generic [ref=e265]: "CoC: 86765574"
+            - generic [ref=e266]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e267]: All rights reserved.
+          - paragraph [ref=e268]
+          - paragraph [ref=e269]
+        - generic [ref=e273]:
+          - paragraph [ref=e274]:
+            - link "Terms and Conditions" [ref=e275] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e276]: Terms and Conditions
+          - paragraph [ref=e277]:
+            - link "Privacy Policy" [ref=e278] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e279]: Privacy Policy
+          - paragraph [ref=e280]
+          - paragraph [ref=e281]
+          - paragraph [ref=e282]
+          - paragraph [ref=e283]
+          - paragraph [ref=e284]
+  - status [ref=e285]

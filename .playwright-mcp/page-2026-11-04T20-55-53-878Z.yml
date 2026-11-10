@@ -1,0 +1,212 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Toolbar":
+      - menu:
+        - group [ref=e3]:
+          - menuitem "Over WordPress" [ref=e4] [cursor=pointer]:
+            - generic [ref=e6]: Over WordPress
+        - group [ref=e7]:
+          - menuitem "Cornelia Organics" [ref=e8] [cursor=pointer]
+        - group [ref=e9]:
+          - menuitem "Winkel binnenkort beschikbaar" [ref=e10] [cursor=pointer]
+        - group [ref=e11]:
+          - menuitem "Aanpassen" [ref=e12] [cursor=pointer]
+        - group [ref=e13]:
+          - menuitem "0 reacties in afwachting" [ref=e14] [cursor=pointer]:
+            - generic [ref=e16]: "0"
+            - generic [ref=e17]: 0 reacties in afwachting
+        - group [ref=e18]:
+          - menuitem "Nieuw" [ref=e19] [cursor=pointer]:
+            - generic [ref=e21]: Nieuw
+        - group [ref=e22]:
+          - menuitem "Pagina bewerken" [ref=e23] [cursor=pointer]
+        - group [ref=e24]:
+          - menuitem "" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]: 
+      - menu [ref=e27]:
+        - group [ref=e28]:
+          - menuitem "Hallo Happy Path Admin" [ref=e29] [cursor=pointer]
+        - group [ref=e30]:
+          - menuitem "Zoeken" [ref=e31]:
+            - generic [ref=e32]:
+              - textbox "Zoeken" [ref=e33] [cursor=pointer]
+              - generic [ref=e34]: Zoeken
+  - link "Ga naar de inhoud" [ref=e35] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e36]:
+    - banner [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e42]:
+          - generic [ref=e45]:
+            - link "Cornelia Organics" [ref=e47] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e48]
+            - generic [ref=e49]:
+              - link "Cornelia Organics" [ref=e51] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+              - paragraph [ref=e52]: Krullenkapper van Utrecht | Eco Salon
+          - button "Maak een afspraak" [ref=e56] [cursor=pointer]:
+            - generic [ref=e57]: Maak een afspraak
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - region "Header Widget 1" [ref=e63]
+            - link "Instagram" [ref=e72] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e74]
+          - navigation "Primaire site navigatie" [ref=e81]:
+            - list [ref=e83]:
+              - listitem [ref=e84]:
+                - link "Home Toggle Home submenu" [ref=e85] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - text: Home
+                  - button "Toggle Home submenu" [ref=e86]:
+                    - img [ref=e88]
+              - listitem [ref=e90]:
+                - link "Behandelingen Toggle Behandelingen submenu" [ref=e91] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - text: Behandelingen
+                  - button "Toggle Behandelingen submenu" [ref=e92]:
+                    - img [ref=e94]
+              - listitem [ref=e96]:
+                - link "Producten Toggle Producten submenu" [ref=e97] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - text: Producten
+                  - button "Toggle Producten submenu" [ref=e98]:
+                    - img [ref=e100]
+              - listitem [ref=e102]:
+                - link "Kapperstrainingen" [ref=e103] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+              - listitem [ref=e104]:
+                - link "Galerij" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+              - listitem [ref=e106]:
+                - link "Shop Toggle Shop submenu" [ref=e107] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - text: Shop
+                  - button "Toggle Shop submenu" [ref=e108]:
+                    - img [ref=e110]
+              - listitem [ref=e112]:
+                - link "Contact" [ref=e113] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+          - generic [ref=e114]:
+            - generic [ref=e116]:
+              - generic:
+                - generic:
+                  - link "Account icoon link":
+                    - /url: https://corneliaorganics.com/account/
+            - link "Winkelwagen weergeven, 1 item" [ref=e120] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e121]:
+                - generic [ref=e124]: € 28,00
+                - generic [ref=e125]:
+                  - img [ref=e127]
+                  - text: "1"
+            - button "Zoekknop" [ref=e132] [cursor=pointer]:
+              - generic [ref=e133]: Zoeken
+              - img [ref=e135]
+    - main [ref=e140]:
+      - article [ref=e141]:
+        - generic [ref=e144]:
+          - table [ref=e146]:
+            - rowgroup [ref=e147]:
+              - row "Item verwijderen Thumbnail afbeelding Product Prijs Aantal Subtotaal" [ref=e148]:
+                - columnheader "Item verwijderen" [ref=e149]:
+                  - generic [ref=e150]: Item verwijderen
+                - columnheader "Thumbnail afbeelding" [ref=e151]:
+                  - generic [ref=e152]: Thumbnail afbeelding
+                - columnheader "Product" [ref=e153]
+                - columnheader "Prijs" [ref=e154]
+                - columnheader "Aantal" [ref=e155]
+                - columnheader "Subtotaal" [ref=e156]
+            - rowgroup [ref=e157]:
+              - row "Verwijder Inner Glow Body Scrub uit winkelwagen Inner Glow Body Scrub Inner Glow Body Scrub € 28,00 Minus hoeveelheid - Inner Glow Body Scrub aantal 1 Plus hoeveelheid + € 28,00" [ref=e158]:
+                - cell "Verwijder Inner Glow Body Scrub uit winkelwagen" [ref=e159]:
+                  - button "Verwijder Inner Glow Body Scrub uit winkelwagen" [ref=e160] [cursor=pointer]:
+                    - img [ref=e162]
+                - cell "Inner Glow Body Scrub" [ref=e164]:
+                  - link "Inner Glow Body Scrub" [ref=e165] [cursor=pointer]:
+                    - /url: https://corneliaorganics.com/shop/body-care/innersense-body-scrub/
+                    - img "Inner Glow Body Scrub" [ref=e166]
+                - rowheader "Inner Glow Body Scrub" [ref=e167]:
+                  - link "Inner Glow Body Scrub" [ref=e168] [cursor=pointer]:
+                    - /url: https://corneliaorganics.com/shop/body-care/innersense-body-scrub/
+                - cell "€ 28,00" [ref=e169]:
+                  - generic [ref=e171]: € 28,00
+                - cell "Minus hoeveelheid - Inner Glow Body Scrub aantal 1 Plus hoeveelheid +" [ref=e172]:
+                  - generic [ref=e173]:
+                    - generic [ref=e174]: Minus hoeveelheid
+                    - link "-" [ref=e175] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                    - generic [ref=e176]: Inner Glow Body Scrub aantal
+                    - spinbutton "Productaantal" [ref=e177]: "1"
+                    - generic [ref=e178]: Plus hoeveelheid
+                    - link "+" [ref=e179] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                - cell "€ 28,00" [ref=e180]:
+                  - generic [ref=e182]: € 28,00
+              - row "Waardebon toepassen Update winkelwagen" [ref=e183]:
+                - cell "Waardebon toepassen Update winkelwagen" [ref=e184]:
+                  - generic [ref=e185]:
+                    - textbox "Waardebon:" [ref=e186]:
+                      - /placeholder: Waardebon code
+                    - button "Waardebon toepassen" [ref=e187] [cursor=pointer]
+                  - button "Update winkelwagen" [disabled] [ref=e188]
+          - generic [ref=e190]:
+            - heading "Totalen winkelwagen" [level=2] [ref=e191]
+            - table [ref=e192]:
+              - rowgroup [ref=e193]:
+                - row "Subtotaal € 28,00" [ref=e194]:
+                  - rowheader "Subtotaal" [ref=e195]
+                  - cell "€ 28,00" [ref=e196]:
+                    - generic [ref=e198]: € 28,00
+                - 'row "Verzending PostNL: € 560,00 Verzenden naar Smakkelaarshoek 5, Studio 8, 3511 EC Utrecht. Adres wijzigen" [ref=e199]':
+                  - rowheader "Verzending" [ref=e200]
+                  - 'cell "PostNL: € 560,00 Verzenden naar Smakkelaarshoek 5, Studio 8, 3511 EC Utrecht. Adres wijzigen" [ref=e201]':
+                    - list [ref=e202]:
+                      - listitem [ref=e203]:
+                        - generic [ref=e204]:
+                          - text: "PostNL:"
+                          - generic [ref=e206]: € 560,00
+                    - paragraph [ref=e207]:
+                      - text: Verzenden naar
+                      - strong [ref=e208]: Smakkelaarshoek 5, Studio 8, 3511 EC Utrecht
+                      - text: .
+                    - button "Adres wijzigen" [ref=e210] [cursor=pointer]
+                - row "Totaal € 588,00" [ref=e211]:
+                  - rowheader "Totaal" [ref=e212]
+                  - cell "€ 588,00" [ref=e213]:
+                    - strong [ref=e214]:
+                      - generic [ref=e216]: € 588,00
+            - link "Checkout" [ref=e218] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/checkout/
+    - contentinfo [ref=e219]:
+      - generic [ref=e222]:
+        - link "Instagram" [ref=e227] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e229]
+          - generic [ref=e231]: Instagram
+        - generic [ref=e234]:
+          - paragraph [ref=e235]:
+            - text: "KvK: 86765574"
+            - text: Copyright © 2026 Cornelia Organics
+            - text: Alle rechten voorbehouden.
+          - paragraph [ref=e236]
+          - paragraph [ref=e237]
+        - generic [ref=e241]:
+          - paragraph [ref=e242]:
+            - link "Voorwaarden" [ref=e243] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+          - paragraph [ref=e244]:
+            - link "Privacybeleid" [ref=e245] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+          - paragraph [ref=e246]
+          - paragraph [ref=e247]
+          - paragraph [ref=e248]
+          - paragraph [ref=e249]
+          - paragraph [ref=e250]
+  - generic [ref=e252]:
+    - text: Deze pagina staat in "Binnenkort beschikbaar" modus en is alleen zichtbaar voor je en degenen die toestemming hebben. Om het voor iedereen openbaar te maken,
+    - link "wijzig de zichtbaarheid instellingen" [ref=e253] [cursor=pointer]:
+      - /url: https://corneliaorganics.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility
+    - text: .
+  - status [ref=e255]

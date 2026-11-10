@@ -1,0 +1,434 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fgalerij
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "To curl" [ref=e83] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                      - generic [ref=e84]: To curl
+                  - listitem [ref=e85]:
+                    - link "Wavy" [ref=e86] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                      - generic [ref=e87]: Wavy
+                  - listitem [ref=e88]:
+                    - link "Signature Curly Highlights" [ref=e89] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                      - generic [ref=e90]: Signature Curly Highlights
+                  - listitem [ref=e91]:
+                    - link "Grey Blending" [ref=e92] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+                      - generic [ref=e93]: Grey Blending
+              - listitem [ref=e94]:
+                - link "Products Toggle Products submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e96]: Products
+                  - button "Toggle Products submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Hairdressing training" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e103]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e106]: Gallery
+              - listitem [ref=e107]:
+                - link "Shop Toggle Shop submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e109]: Shop
+                  - button "Toggle Shop submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Contact" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e116]: Contact
+          - generic [ref=e117]:
+            - region "Header Widget 1" [ref=e119]
+            - link "Instagram" [ref=e128] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e130]
+    - main [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e140]:
+          - heading "Gallery" [level=2] [ref=e141]:
+            - generic [ref=e142]: Gallery
+          - generic [ref=e143]:
+            - generic [ref=e145]:
+              - generic [ref=e146]:
+                - generic [ref=e152]: cornelia.organics
+                - generic [ref=e153]:
+                  - generic [ref=e154]:
+                    - generic [ref=e156]: "130"
+                    - generic [ref=e158]: to inform
+                  - generic [ref=e159]:
+                    - generic [ref=e161]: "359"
+                    - generic [ref=e163]: followers
+              - link "To follow" [ref=e165] [cursor=pointer]:
+                - /url: https://www.instagram.com/cornelia.organics
+                - generic [ref=e167]: To follow
+            - generic [ref=e170]:
+              - article [ref=e172]:
+                - generic [ref=e173]:
+                  - generic [ref=e174] [cursor=pointer]:
+                    - generic [ref=e176]:
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on October 14, 2026." [ref=e179]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on October 14, 2026." [ref=e182]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on October 14, 2026." [ref=e184]
+                    - generic [ref=e186]: 1/5
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: October 14, 2026
+                    - generic:
+                      - generic: "GRAY BLENDED BRONDE. This was my lovely clients first time in my salon. She wanted a softer color (after years of coloring herself) but wasn't ready to be cool toned blond / gray. Eventually we will go a little lighter but I chose to do a soft lift as her ends were quite fragile. Gray Blending is a process and comes in many different tones. Formula: Teased foilyage Pure Lightener 10 vol Lowlights in between 8N + 9V + 2 gr VV 5 vol After washing root shadow to blend gray 7N + 8V 5 vol Toner ends 9N + 9V + clear 5 vol Styled after a dry curl cut with Air Dry Styling Cream, I Create Curl Memory Finished with Overnight Repair Serum."
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+                      - link "@innersenseorganicbeauty":
+                        - /url: https://www.instagram.com/innersenseorganicbeauty
+                        - generic: "@innersenseorganicbeauty"
+              - article [ref=e188]:
+                - generic [ref=e189]:
+                  - generic [ref=e190] [cursor=pointer]:
+                    - generic [ref=e192]:
+                      - img "Trustindex feed video, shared by cornelia.organics on Instagram on October 09, 2026." [ref=e195]
+                      - img "Trustindex feed video, shared by cornelia.organics on Instagram on October 09, 2026." [ref=e197]
+                    - generic [ref=e199]: 1/3
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: October 9, 2026
+                    - generic:
+                      - generic: "BEAUTIFUL GRAY BLENDING >swipe for vid I absolutely love blending gray with Innersense Color Purity! It gives a beautiful glow to the gray and seamlessly blends with the natural strands that are left. I used my specialty technique which is an all over color that I then blend into the mid-sections as a reverse balayage. I leave out the ends for a natural looking fade. After rinsing the color I used the repair mask to care for the ends. Formula: On dry hair: 30 gr 9N + 7 gr 9V + 3 gr clear 5 vol 1:2 20 min"
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+                      - link "@innersenseorganicbeauty":
+                        - /url: https://www.instagram.com/innersenseorganicbeauty
+                        - generic: "@innersenseorganicbeauty"
+              - article [ref=e201]:
+                - generic [ref=e202]:
+                  - generic [ref=e203] [cursor=pointer]:
+                    - generic [ref=e205]:
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on August 26, 2026." [ref=e207]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on August 26, 2026." [ref=e209]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on August 26, 2026." [ref=e211]
+                    - generic [ref=e213]: 1/3
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: August 26, 2026
+                    - generic:
+                      - generic: "COLOR GLOSS. My beautiful client came in with a color done elsewhere that had grown out warm highlights and too warm lowlights. She wants to embrace her natural color for now but also liked some dimension left in her hair. I put a soft gray blend gloss on her roots and a color gloss on her ends to tone down the warmth while keeping it slightly lighter. Formulation: Innersense Color Purity demi permanent Roots: 35gr 6N + 10gr 6G + 5gr 8v + 5 vol 1:2 Ends: 15 gr 8N + 5gr 8V + 15 gr clear + 5 vol 1:2 On towel dry hair 20 min process time"
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+                      - link "@innersenseorganicbeauty":
+                        - /url: https://www.instagram.com/innersenseorganicbeauty
+                        - generic: "@innersenseorganicbeauty"
+              - article [ref=e215]:
+                - generic [ref=e216]:
+                  - generic [ref=e223] [cursor=pointer]: 1/2
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: August 3, 2026
+                    - generic:
+                      - generic: "GRAY BLENDING WITH FOILS. Gray Blending doesn't always have to be very light and ash. I love doing a more natural highlighting and toning with a neutral toner. This way, when there isn't a huge amount of gray it will still blend without going to an ash gray tone immediately. Formulation 1st time Gray Blending: Innersense Pure Lightener 20 vol - slices not weaved Color Purity Toner 20 gr 9N + 5 gr 8N + 10 gr Clear 5 vol Styles with I create curl memory, I create lift volumizing foam and I create finish. Scrunch out with I create shine."
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+                      - link "@innersenseorganicbeauty":
+                        - /url: https://www.instagram.com/innersenseorganicbeauty
+                        - generic: "@innersenseorganicbeauty"
+              - article [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e227] [cursor=pointer]:
+                    - generic [ref=e229]:
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on July 13, 2026." [ref=e231]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on July 13, 2026." [ref=e233]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on July 13, 2026." [ref=e235]
+                    - generic [ref=e237]: 1/3
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: July 13, 2026
+                    - generic:
+                      - generic: "GRAY BLENDING. A new look at gray hair coloring. Embrace your gray hair but work with it, to create a beautiful and natural color. We chose Gray Lightening with a neutral cooler toner so her regrowth would be softer and less visible. This means less hair dye appointment and a natural look. Foils: babylight slices, no weave. Back and sides Innersense Pure lightener 20 vol. Top 30 vol. Toner Color Purity: 10 gr 10N + 10 gr 10V + 10 gr clear + 5 vol."
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+              - article [ref=e239]:
+                - generic [ref=e240]:
+                  - generic [ref=e241] [cursor=pointer]:
+                    - generic [ref=e243]:
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 19, 2026." [ref=e245]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 19, 2026." [ref=e247]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 19, 2026." [ref=e249]
+                    - generic [ref=e251]: 1/3
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: May 19, 2026
+                    - generic:
+                      - generic: "Color Gloss demi-permanent with Innersense Color Purity. My most used color treatment. Beautiful natural grow out and super shiny color result. Formulation: on towel dry hair. Roots: 15gr 8G + 7gr 8C + 3gr GG 5 vol. Ends: 7gr 8C + 3gr 8G + 2gr CC 20 min"
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+              - article [ref=e253]:
+                - generic [ref=e254]:
+                  - generic [ref=e255] [cursor=pointer]:
+                    - generic [ref=e257]:
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 15, 2026." [ref=e259]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 15, 2026." [ref=e261]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 15, 2026." [ref=e263]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 15, 2026." [ref=e265]
+                    - generic [ref=e269]: 1/6
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: May 15, 2026
+                    - generic:
+                      - generic: "LET'S TALK GRAY BLENDING! My favorite technique for softening gray hair without fully covering all the gray. This will prevent a harsh re-growth line. >> swipe for before We decided not to go lighter yet so this color was an all over demi-permanent color close to her natural tone. This will give a soft blend of color on the gray hair and grow out will also be very soft as it slowly fades over time. Perfect for fewer touch-ups. Color formulation Innersense Color Purity: on dry, unwashed hair: 30 gr 5G + 10 gr 6N + 5 gr GG + 90 gr 5 vol 25 min Are you a hairdresser wanting to learn more about Gray Blending with Color Purity? Get in touch via DM or email."
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+              - article [ref=e271]:
+                - generic [ref=e272]:
+                  - img "Trustindex feed image, shared by cornelia.organics on Instagram on April 28, 2026." [ref=e275] [cursor=pointer]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: 28 April 2026
+                    - generic:
+                      - generic: Innersense On Tour London. What an amazing evening!
+                      - link "@innersensepro":
+                        - /url: https://www.instagram.com/innersensepro
+                        - generic: "@innersensepro"
+              - article [ref=e277]:
+                - generic [ref=e278]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: 18 November 2025
+              - article [ref=e282]:
+                - generic [ref=e283]:
+                  - generic [ref=e284] [cursor=pointer]:
+                    - generic [ref=e286]:
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on November 11, 2025." [ref=e288]
+                      - img "Trustindex feed image, shared by cornelia.organics on Instagram on November 11, 2025." [ref=e290]
+                    - generic [ref=e292]: 1/2
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: 11 November 2025
+                    - generic:
+                      - generic: "Beautiful Gray blending with foils. I love using foils to blend gray hair with a color as close to the natural shade of the hair. This way the grow out is very soft and not all the gray is covered to keep it natural. Color used: Innersense Color Purity 8G + 7G + 7N 20 vol and 8G 30 vol Styled with I create curl memory, I create finish and I create shine"
+              - article [ref=e294]:
+                - generic [ref=e295]:
+                  - img "Trustindex feed image, shared by cornelia.organics on Instagram on July 02, 2025." [ref=e298] [cursor=pointer]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: July 2, 2025
+                    - generic:
+                      - img "✨"
+                      - generic: ️
+                      - generic: 3 YEARS CORNELIA ORGANICS
+                      - img "✨"
+                      - generic: ️
+                      - generic: Today marks 3 years for Cornelia Organics! And this is something to be proud of. Thanks to your trust and loyalty, Cornelia Organics is a success. Thank you for that! I would like to celebrate this milestone by offering a tiered discount on all products throughout the entire month of July. 1 product 10% discount 2 products 20% discount 3 products 30% discount If you are not physically at the salon this month but would still like to order products, I would be happy to send a package to you. Just send a WhatsApp message for this. 1 product 10% discount 2 products 20% discount 3 products 30% discount If you are not physically in the salon this month but want to order products, I will also happily send you a package. Please send a Whatsapp message for this.
+              - article [ref=e300]:
+                - generic [ref=e301]:
+                  - generic [ref=e302] [cursor=pointer]:
+                    - img "Trustindex feed image, shared by cornelia.organics on Instagram on May 15, 2025." [ref=e306]
+                    - generic [ref=e310]: 1/3
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: cornelia.organics
+                        - generic:
+                          - generic:
+                            - generic: May 15, 2025
+                    - generic:
+                      - generic: First time CorneliaCurl cut for my new client
+                      - link "@rianne_bakker":
+                        - /url: https://www.instagram.com/rianne_bakker
+                        - generic: "@rianne_bakker"
+                      - generic: . Her layers were too heavy and therefore there wasn't a lot of room for her waves to curl up. I added lightness by removing weight and shaped her curls around the face for a softer look. Can't wait to see her future curl journey! >swipe for more and before pic All products used from
+                      - link "@innersense.benelux":
+                        - /url: https://www.instagram.com/innersense.benelux
+                        - generic: "@innersense.benelux"
+                      - link "#curls":
+                        - /url: https://www.instagram.com/explore/tags/curls
+                        - generic: "#curls"
+                      - link "#curl hairdresser":
+                        - /url: https://www.instagram.com/explore/tags/krullenkapper
+                        - generic: "#curl hairdresser"
+                      - link "#curls":
+                        - /url: https://www.instagram.com/explore/tags/krullen
+                        - generic: "#curls"
+                      - link "#utrecht":
+                        - /url: https://www.instagram.com/explore/tags/utrecht
+                        - generic: "#utrecht"
+                      - link "#organic":
+                        - /url: https://www.instagram.com/explore/tags/organic
+                        - generic: "#organic"
+                      - link "#innersensebeauty":
+                        - /url: https://www.instagram.com/explore/tags/innersensebeauty
+                        - generic: "#innersensebeauty"
+                      - link "#curlspecialist":
+                        - /url: https://www.instagram.com/explore/tags/curlspecialist
+                        - generic: "#curlspecialist"
+            - navigation "Trustindex Feed load more" [ref=e312]:
+              - generic [ref=e314] [cursor=pointer]: Load more
+    - contentinfo [ref=e315]:
+      - generic [ref=e318]:
+        - link "Instagram" [ref=e323] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e325]
+          - generic [ref=e328]: Instagram
+        - generic [ref=e331]:
+          - paragraph [ref=e332]:
+            - generic [ref=e333]: "CoC: 86765574"
+            - generic [ref=e334]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e335]: All rights reserved.
+          - paragraph [ref=e336]
+          - paragraph [ref=e337]
+        - generic [ref=e341]:
+          - paragraph [ref=e342]:
+            - link "Terms and Conditions" [ref=e343] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e344]: Terms and Conditions
+          - paragraph [ref=e345]:
+            - link "Privacy Policy" [ref=e346] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e347]: Privacy Policy
+          - paragraph [ref=e348]
+          - paragraph [ref=e349]
+          - paragraph [ref=e350]
+          - paragraph [ref=e351]
+          - paragraph [ref=e352]
+  - status [ref=e353]

@@ -1,0 +1,395 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+              - listitem [ref=e81]:
+                - link "Products Toggle Products submenu" [ref=e82] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e83]: Products
+                  - button "Toggle Products submenu" [ref=e84]:
+                    - img [ref=e86]
+              - listitem [ref=e88]:
+                - link "Hairdressing training" [ref=e89] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e90]: Hairdressing training
+              - listitem [ref=e91]:
+                - link "Gallery" [ref=e92] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e93]: Gallery
+              - listitem [ref=e94]:
+                - link "Shop Toggle Shop submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e96]: Shop
+                  - button "Toggle Shop submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Contact" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e103]: Contact
+          - generic [ref=e104]:
+            - region "Header Widget 1" [ref=e106]
+            - link "Instagram" [ref=e115] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e117]
+    - main [ref=e122]:
+      - article [ref=e123]:
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - img "Cornelia Organics' Minimalist Ginkgo Curly Girl" [ref=e126]
+            - heading "Cornelia Organics" [level=1] [ref=e131]:
+              - generic [ref=e132]: Cornelia
+              - generic [ref=e133]: Organics
+          - generic [ref=e134]:
+            - img "Cornelia Organics Salon Interior" [ref=e135]
+            - generic:
+              - paragraph
+          - generic [ref=e138]:
+            - figure [ref=e140]
+            - generic [ref=e141]:
+              - heading "My name is Eva Maria Cornelia" [level=4] [ref=e142]:
+                - generic [ref=e143]: My name is Eva Maria Cornelia
+              - paragraph [ref=e144]:
+                - generic [ref=e145]: I am the founder and owner of Cornelia Organics, an Organic and Holistic Curl salon studio in the heart of Utrecht. Here, I give you and your curls my undivided attention, and every treatment is custom-made.
+              - paragraph [ref=e146]:
+                - generic [ref=e147]: I specialize in cutting curly and wavy hair, Grey Blending, and my Signature Curly Highlights / Foilyage. I use organic care and styling products as much as possible. For coloring, I use the clean, low-toxin color from Innersense and apply techniques that expose you to as few chemicals as possible.
+              - paragraph [ref=e148]:
+                - generic [ref=e149]: In addition to my work in the salon, I am also a trainer for Innersense. I have a great passion for educating other hairdressers. I also provide private training to hairdressers in my studio. So, if you are a hairdresser looking for training, be sure to check out the offerings.
+              - paragraph [ref=e150]:
+                - generic [ref=e151]: The name of the salon is a tribute to my grandmother Cornelia. She met my grandfather (Cornelis) during a visit to the hairdresser's salon. My grandparents worked together in that salon for many years until my parents (both hairdressers as well) took over and continued running the salon.
+          - generic [ref=e152]:
+            - heading "Reviews" [level=3] [ref=e153]:
+              - generic [ref=e154]: Reviews
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - img "Cornelia Organics" [ref=e159]
+                - generic [ref=e160]:
+                  - generic [ref=e161]:
+                    - generic: Cornelia Organics
+                  - generic [ref=e162]:
+                    - img "Google Star 1" [ref=e163]
+                    - img "Google Star 2" [ref=e164]
+                    - img "Google Star 3" [ref=e165]
+                    - img "Google Star 4" [ref=e166]
+                    - img "Google Star 5" [ref=e167]
+                  - strong [ref=e170]:
+                    - generic: 21 Google reviews
+                  - button "Write a review for Google" [ref=e172] [cursor=pointer]:
+                    - generic: Write a review
+              - generic [ref=e173]:
+                - button "Next review" [ref=e174]
+                - generic [ref=e176]:
+                  - generic [ref=e178]:
+                    - generic [ref=e179]:
+                      - img "Google" [ref=e181]
+                      - img "Jolanda Dorrestijn profile picture" [ref=e183]
+                      - generic [ref=e184]:
+                        - generic [ref=e185]:
+                          - generic: Jolanda Dorrestijn
+                        - generic [ref=e429]:
+                          - generic: 1 year ago
+                    - generic [ref=e186]:
+                      - img "Google Star 1" [ref=e187]
+                      - img "Google Star 2" [ref=e188]
+                      - img "Google Star 3" [ref=e189]
+                      - img "Google Star 4" [ref=e190]
+                      - img "Google Star 5" [ref=e191]
+                    - generic [ref=e193]:
+                      - generic:
+                        - generic:
+                          - generic: I have been getting my hair cut by Eva for quite some time. I am very satisfied. Apart from the fact that Eva is a nice person to sit in the chair with, she is a skilled professional. I really like the Innersense products.
+                    - button "Read more" [ref=e430]:
+                      - generic [ref=e431] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e196]:
+                    - generic [ref=e197]:
+                      - img "Google" [ref=e199]
+                      - img "Neil Pandya profile picture" [ref=e201]
+                      - generic [ref=e202]:
+                        - generic [ref=e203]:
+                          - generic: Neil Pandya
+                        - generic [ref=e433]:
+                          - generic: 3 years ago
+                    - generic [ref=e204]:
+                      - img "Google Star 1" [ref=e205]
+                      - img "Google Star 2" [ref=e206]
+                      - img "Google Star 3" [ref=e207]
+                      - img "Google Star 4" [ref=e208]
+                      - img "Google Star 5" [ref=e209]
+                    - generic [ref=e211]:
+                      - generic:
+                        - generic:
+                          - generic: "Eva is the best hairdresser to have ever cut my hair, by far. She can do it all: straight, wavy, curls, men, women, or children. All her products are clean, and her chair-side manner is warm and professional."
+                    - button "Read more" [ref=e434]:
+                      - generic [ref=e435] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e214]:
+                    - generic [ref=e215]:
+                      - img "Google" [ref=e217]
+                      - img "Jett Ruigrok profile picture" [ref=e219]
+                      - generic [ref=e220]:
+                        - generic [ref=e221]:
+                          - generic: Jett Ruigrok
+                        - generic [ref=e437]:
+                          - generic: 3 years ago
+                    - generic [ref=e222]:
+                      - img "Google Star 1" [ref=e223]
+                      - img "Google Star 2" [ref=e224]
+                      - img "Google Star 3" [ref=e225]
+                      - img "Google Star 4" [ref=e226]
+                      - img "Google Star 5" [ref=e227]
+                    - generic [ref=e229]:
+                      - generic:
+                        - generic:
+                          - generic: After years of searching for a good hairdresser I trust in Utrecht, I ended up at Eva's for a while now. I always found it difficult to know how best to care for my hair, and Eva makes it all a lot easier. She is incredibly thoughtful and genuinely cares about you and your hair. She has a huge amount of patience and is also very fun to be around!!
+                    - button "Read more" [ref=e438]:
+                      - generic [ref=e439] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e232]:
+                    - generic [ref=e233]:
+                      - img "Google" [ref=e235]
+                      - img "Lana Ramselaar profile picture" [ref=e237]
+                      - generic [ref=e238]:
+                        - generic [ref=e239]:
+                          - generic: Lana Ramselaar
+                        - generic [ref=e441]:
+                          - generic: 4 years ago
+                    - generic [ref=e240]:
+                      - img "Google Star 1" [ref=e241]
+                      - img "Google Star 2" [ref=e242]
+                      - img "Google Star 3" [ref=e243]
+                      - img "Google Star 4" [ref=e244]
+                      - img "Google Star 5" [ref=e245]
+                    - generic [ref=e247]:
+                      - generic:
+                        - generic:
+                          - generic: I go to Cornelia Organics to get my curls cut and I am super happy with the result every time! No other hairdresser for me anymore :)
+                    - button "Read more" [ref=e442]:
+                      - generic [ref=e443] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e250]:
+                    - generic [ref=e251]:
+                      - img "Google" [ref=e253]
+                      - img "M dB profile picture" [ref=e255]
+                      - generic [ref=e256]:
+                        - generic [ref=e257]:
+                          - generic: M dB
+                        - generic [ref=e445]:
+                          - generic: 4 years ago
+                    - generic [ref=e258]:
+                      - img "Google Star 1" [ref=e259]
+                      - img "Google Star 2" [ref=e260]
+                      - img "Google Star 3" [ref=e261]
+                      - img "Google Star 4" [ref=e262]
+                      - img "Google Star 5" [ref=e263]
+                    - generic [ref=e265]:
+                      - generic:
+                        - generic:
+                          - generic: It is really nice that they take the time to see what suits you best and what your hair needs. A very beautiful salon with lovely products that you can also order for home use. A very nice treatment that is good for curls; Eva really knows her stuff!
+                    - button "Read more" [ref=e446]:
+                      - generic [ref=e447] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e268]:
+                    - generic [ref=e269]:
+                      - img "Google" [ref=e271]
+                      - img "Nienke van Nimwegen profile picture" [ref=e273]
+                      - generic [ref=e274]:
+                        - generic [ref=e275]:
+                          - generic: Nienke van Nimwegen
+                        - generic [ref=e449]:
+                          - generic: 4 years ago
+                    - generic [ref=e276]:
+                      - img "Google Star 1" [ref=e277]
+                      - img "Google Star 2" [ref=e278]
+                      - img "Google Star 3" [ref=e279]
+                      - img "Google Star 4" [ref=e280]
+                      - img "Google Star 5" [ref=e281]
+                    - generic [ref=e283]:
+                      - generic: Highly recommended. Eva is a perfectionist through and through with a wealth of experience. She communicates well and really takes her time with your hair. I receive many compliments on my hairstyle after I’ve been to her.
+                    - button "Read more" [ref=e450]:
+                      - generic [ref=e451] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e286]:
+                    - generic [ref=e287]:
+                      - img "Google" [ref=e289]
+                      - img "Corrie Tijsseling profile picture" [ref=e291]
+                      - generic [ref=e292]:
+                        - generic [ref=e293]:
+                          - generic: Corrie Tijsseling
+                        - generic [ref=e453]:
+                          - generic: 4 years ago
+                    - generic [ref=e294]:
+                      - img "Google Star 1" [ref=e295]
+                      - img "Google Star 2" [ref=e296]
+                      - img "Google Star 3" [ref=e297]
+                      - img "Google Star 4" [ref=e298]
+                      - img "Google Star 5" [ref=e299]
+                    - generic [ref=e301]:
+                      - generic: "Eva is a very skilled hairdresser with a keen eye for detail. She takes her time with you, looks closely at who you are and what suits you. I always had a bit of a wave in my hair, but she has awakened the curls. Moreover, she is deaf-friendly: she makes good eye contact, articulates clearly, and speaks calmly. Something that is blissful, by the way: the Harmonic treatment: a massage for your scalp!"
+                    - button "Read more" [ref=e454]:
+                      - generic [ref=e455] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e304]:
+                    - generic [ref=e305]:
+                      - img "Google" [ref=e307]
+                      - img "Layla La profile picture" [ref=e309]
+                      - generic [ref=e310]:
+                        - generic [ref=e311]:
+                          - generic: Layla La
+                        - generic [ref=e457]:
+                          - generic: 4 years ago
+                    - generic [ref=e312]:
+                      - img "Google Star 1" [ref=e313]
+                      - img "Google Star 2" [ref=e314]
+                      - img "Google Star 3" [ref=e315]
+                      - img "Google Star 4" [ref=e316]
+                      - img "Google Star 5" [ref=e317]
+                    - generic [ref=e319]:
+                      - generic: After years of hopping from hairdresser to hairdresser unsatisfied, I finally never have a bad hair day again thanks to Eva's skills and good advice! ♥️
+                    - button "Read more" [ref=e458]:
+                      - generic [ref=e459] [cursor=pointer]:
+                        - generic: Read more
+                  - generic [ref=e322]:
+                    - generic [ref=e323]:
+                      - img "Google" [ref=e325]
+                      - img "Malou Vijfhuizen profile picture" [ref=e327]
+                      - generic [ref=e328]:
+                        - generic [ref=e329]:
+                          - generic: Malou Vijfhuizen
+                        - generic [ref=e461]:
+                          - generic: 4 years ago
+                    - generic [ref=e330]:
+                      - img "Google Star 1" [ref=e331]
+                      - img "Google Star 2" [ref=e332]
+                      - img "Google Star 3" [ref=e333]
+                      - img "Google Star 4" [ref=e334]
+                      - img "Google Star 5" [ref=e335]
+                    - generic [ref=e337]:
+                      - generic: "What an amazing hairdresser Eva is! With a love for natural products, she takes her time with you and achieves beautiful results every time. Highly recommended: head massage and nourishing hair mask."
+                    - button "Read more" [ref=e462]:
+                      - generic [ref=e463] [cursor=pointer]:
+                        - generic: Read more
+                - generic [ref=e340]:
+                  - generic: "Certified by: Trustindex"
+          - generic [ref=e342]:
+            - heading "FAQ" [level=3] [ref=e343]:
+              - generic [ref=e464]: FAQ
+            - group [ref=e344]:
+              - generic [ref=e345]:
+                - heading "I have already been to another curly hair specialist. Should I still book 'Curly Hair Cut New Client 1st Time'?" [level=5] [ref=e465]:
+                  - button "I have already been to another curly hair specialist. Should I still book 'Curly Hair Cut New Client 1st Time'?" [expanded] [active] [ref=e466] [cursor=pointer]:
+                    - generic [ref=e467]: +
+                    - generic [ref=e468]: I have already been to another curly hair specialist. Should I still book 'Curly Hair Cut New Client 1st Time'?
+                - region "I have already been to another curly hair specialist. Should I still book 'Curly Hair Cut New Client 1st Time'?" [ref=e469]:
+                  - paragraph [ref=e470]:
+                    - generic [ref=e471]: I think it's great that you've seen other stylists! However, if you have never been to Cornelia Organics before, I kindly ask you to book the Curl Cut + Styling Training New Client 1st Visit, or one of the other treatments under the New Client 1st Visit section. This gives me the time to perform a full analysis of your texture, have an extensive consultation with you, give you a Signature CorneliaCurl Cut, and provide tips on how to get started with your new hairstyle at home.
+              - generic [ref=e350]:
+                - heading "I am trying to book an appointment and there are no options available. Is this correct?" [level=5] [ref=e472]:
+                  - button "I am trying to book an appointment and there are no options available. Is this correct?" [ref=e473] [cursor=pointer]:
+                    - generic [ref=e474]: +
+                    - generic [ref=e475]: I am trying to book an appointment and there are no options available. Is this correct?
+                - region "I am trying to book an appointment and there are no options available. Is this correct?"
+              - generic [ref=e355]:
+                - heading "I don't see any available appointments on a specific date. Do you have a waiting list?" [level=5] [ref=e476]:
+                  - button "I don't see any available appointments on a specific date. Do you have a waiting list?" [ref=e477] [cursor=pointer]:
+                    - generic [ref=e478]: +
+                    - generic [ref=e479]: I don't see any available appointments on a specific date. Do you have a waiting list?
+                - region "I don't see any available appointments on a specific date. Do you have a waiting list?"
+              - generic [ref=e360]:
+                - heading "Do you work in the evenings or on weekends?" [level=5] [ref=e480]:
+                  - button "Do you work in the evenings or on weekends?" [ref=e481] [cursor=pointer]:
+                    - generic [ref=e482]: +
+                    - generic [ref=e483]: Do you work in the evenings or on weekends?
+                - region "Do you work in the evenings or on weekends?"
+              - generic [ref=e365]:
+                - heading "How should I prepare my hair for my appointment?" [level=5] [ref=e366]:
+                  - button "How should I prepare my hair for my appointment?" [ref=e367] [cursor=pointer]:
+                    - generic [ref=e369]: +
+                    - generic [ref=e371]: How should I prepare my hair for my appointment?
+                - region "How should I prepare my hair for my appointment?"
+              - generic [ref=e372]:
+                - heading "Can I come by first for a consultation so you can see my hair before I book an appointment?" [level=5] [ref=e373]:
+                  - button "Can I come by first for a consultation so you can see my hair before I book an appointment?" [ref=e374] [cursor=pointer]:
+                    - generic [ref=e376]: +
+                    - generic [ref=e378]: Can I come by first for a consultation so you can see my hair before I book an appointment?
+                - region "Can I come by first for a consultation so you can see my hair before I book an appointment?"
+          - generic [ref=e380]:
+            - link "Discover More" [ref=e382] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=842
+              - generic [ref=e383]: Discover More
+            - link "Make an Appointment" [ref=e385] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/afspraken
+              - generic [ref=e386]: Make an Appointment
+    - contentinfo [ref=e388]:
+      - generic [ref=e391]:
+        - link "Instagram" [ref=e396] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e398]
+          - generic [ref=e401]: Instagram
+        - generic [ref=e404]:
+          - paragraph [ref=e405]:
+            - generic [ref=e406]: "CoC: 86765574"
+            - generic [ref=e407]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e408]: All rights reserved.
+          - paragraph [ref=e409]
+          - paragraph [ref=e410]
+        - generic [ref=e414]:
+          - paragraph [ref=e415]:
+            - link "Terms and Conditions" [ref=e416] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e417]: Terms and Conditions
+          - paragraph [ref=e418]:
+            - link "Privacy Policy" [ref=e419] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e420]: Privacy Policy
+          - paragraph [ref=e421]
+          - paragraph [ref=e422]
+          - paragraph [ref=e423]
+          - paragraph [ref=e424]
+          - paragraph [ref=e425]
+  - generic [ref=e484] [cursor=pointer]:
+    - img [ref=e486]
+    - generic [ref=e489]: Scroll up
+  - status [ref=e426]

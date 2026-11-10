@@ -1,0 +1,148 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fproducten
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "To curl" [ref=e83] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                      - generic [ref=e84]: To curl
+                  - listitem [ref=e85]:
+                    - link "Wavy" [ref=e86] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                      - generic [ref=e87]: Wavy
+                  - listitem [ref=e88]:
+                    - link "Signature Curly Highlights" [ref=e89] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                      - generic [ref=e90]: Signature Curly Highlights
+                  - listitem [ref=e91]:
+                    - link "Grey Blending" [ref=e92] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+                      - generic [ref=e93]: Grey Blending
+              - listitem [ref=e94]:
+                - link "Products Toggle Products submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e96]: Products
+                  - button "Toggle Products submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Hairdressing training" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e103]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e106]: Gallery
+              - listitem [ref=e107]:
+                - link "Shop Toggle Shop submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e109]: Shop
+                  - button "Toggle Shop submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Contact" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e116]: Contact
+          - generic [ref=e117]:
+            - region "Header Widget 1" [ref=e119]
+            - link "Instagram" [ref=e128] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e130]
+    - main [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e138]:
+          - generic [ref=e140]:
+            - link "Innersense Organic Beauty" [ref=e143] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/innersense-organic-beauty/
+              - generic [ref=e144]: Innersense Organic Beauty
+            - figure [ref=e145]:
+              - link "Innersense Organic Beauty" [ref=e146] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/innersense-organic-beauty/
+                - img "Innersense Organic Beauty" [ref=e147]
+          - generic [ref=e149]:
+            - link "Color Purity" [ref=e152] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/color-purity
+              - generic [ref=e153]: Color Purity
+            - figure [ref=e154]:
+              - link "Meet Innersense Organic Beauty Color Purity line." [ref=e155] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/color-purity/
+                - img "Meet Innersense Organic Beauty Color Purity line." [ref=e156]
+          - generic [ref=e158]:
+            - link "Mas Newen" [ref=e161] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/mas-newen/
+              - generic [ref=e162]: Mas Newen
+            - figure [ref=e163]:
+              - link "Mas Newen" [ref=e164] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/mas-newen/
+                - img "Mas Newen" [ref=e165]
+    - contentinfo [ref=e166]:
+      - generic [ref=e169]:
+        - link "Instagram" [ref=e174] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e176]
+          - generic [ref=e179]: Instagram
+        - generic [ref=e182]:
+          - paragraph [ref=e183]:
+            - generic [ref=e184]: "CoC: 86765574"
+            - generic [ref=e185]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e186]: All rights reserved.
+          - paragraph [ref=e187]
+          - paragraph [ref=e188]
+        - generic [ref=e192]:
+          - paragraph [ref=e193]:
+            - link "Terms and Conditions" [ref=e194] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e195]: Terms and Conditions
+          - paragraph [ref=e196]:
+            - link "Privacy Policy" [ref=e197] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e198]: Privacy Policy
+          - paragraph [ref=e199]
+          - paragraph [ref=e200]
+          - paragraph [ref=e201]
+          - paragraph [ref=e202]
+          - paragraph [ref=e203]
+  - status [ref=e204]

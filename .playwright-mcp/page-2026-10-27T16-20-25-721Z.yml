@@ -1,0 +1,166 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fsignature-curly-hightlights
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "To curl" [ref=e83] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                      - generic [ref=e84]: To curl
+                  - listitem [ref=e85]:
+                    - link "Wavy" [ref=e86] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                      - generic [ref=e87]: Wavy
+                  - listitem [ref=e88]:
+                    - link "Signature Curly Highlights" [ref=e89] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                      - generic [ref=e90]: Signature Curly Highlights
+                  - listitem [ref=e91]:
+                    - link "Grey Blending" [ref=e92] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+                      - generic [ref=e93]: Grey Blending
+              - listitem [ref=e94]:
+                - link "Products Toggle Products submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e96]: Products
+                  - button "Toggle Products submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Hairdressing training" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e103]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e106]: Gallery
+              - listitem [ref=e107]:
+                - link "Shop Toggle Shop submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e109]: Shop
+                  - button "Toggle Shop submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Contact" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e116]: Contact
+          - generic [ref=e117]:
+            - region "Header Widget 1" [ref=e119]
+            - link "Instagram" [ref=e128] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e130]
+    - main [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e137]:
+          - generic [ref=e139]:
+            - heading "Signature Curly Highlights" [level=2] [ref=e142]:
+              - generic [ref=e143]: Signature Curly Highlights
+            - figure [ref=e146]
+          - generic [ref=e148]:
+            - heading "Cornelia Organics uses the new ammonia-free lightener from the Color Purity line by Innersense for highlighting." [level=5] [ref=e150]:
+              - generic [ref=e151]: Cornelia Organics uses the new ammonia-free lightener from the Color Purity line by Innersense for highlighting.
+            - figure [ref=e153]
+            - generic [ref=e154]:
+              - paragraph [ref=e155]:
+                - generic [ref=e156]: Due to the absence of strong chemical ingredients, the hair remains in a healthy condition.
+              - paragraph [ref=e157]:
+                - generic [ref=e158]: This odorless powder lightens your hair in the most natural way. The activator added to the powder is an ammonia-free developer.
+              - paragraph [ref=e159]:
+                - generic [ref=e160]: This coloring is the most eco-friendly way to lighten.
+          - generic [ref=e162]:
+            - figure [ref=e164]
+            - generic [ref=e165]:
+              - heading "To lighten your curls as naturally as possible, I use a specially developed technique." [level=5] [ref=e166]:
+                - generic [ref=e167]: To lighten your curls as naturally as possible, I use a specially developed technique.
+              - paragraph [ref=e168]:
+                - generic [ref=e169]: Signature curly highlights are colored within your curl pattern.
+                - generic [ref=e170]: This creates dimension in your curls and gives you the most natural result possible, which grows out beautifully.
+          - generic [ref=e172]:
+            - paragraph [ref=e174]:
+              - generic [ref=e175]: After the highlights, I use a toner from the Color Purity line by Innersense to achieve the right color shade. The Color Purity toners are also ammonia-free.
+            - figure [ref=e177]
+            - generic [ref=e178]:
+              - paragraph [ref=e179]:
+                - generic [ref=e180]: That's why your curls stay in the best condition!
+              - paragraph [ref=e181]:
+                - generic [ref=e182]: A curl cut and highlight treatment
+                - strong [ref=e183]:
+                  - generic [ref=e184]: usually takes 3.5 - 4.5 hours
+                - generic [ref=e185]: .
+          - generic [ref=e186]:
+            - link "Discover More" [ref=e188] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=842
+              - generic [ref=e189]: Discover More
+            - link "Make an Appointment" [ref=e191] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/afspraken
+              - generic [ref=e192]: Make an Appointment
+    - contentinfo [ref=e193]:
+      - generic [ref=e196]:
+        - link "Instagram" [ref=e201] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e203]
+          - generic [ref=e206]: Instagram
+        - generic [ref=e209]:
+          - paragraph [ref=e210]:
+            - generic [ref=e211]: "CoC: 86765574"
+            - generic [ref=e212]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e213]: All rights reserved.
+          - paragraph [ref=e214]
+          - paragraph [ref=e215]
+        - generic [ref=e219]:
+          - paragraph [ref=e220]:
+            - link "Terms and Conditions" [ref=e221] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e222]: Terms and Conditions
+          - paragraph [ref=e223]:
+            - link "Privacy Policy" [ref=e224] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e225]: Privacy Policy
+          - paragraph [ref=e226]
+          - paragraph [ref=e227]
+          - paragraph [ref=e228]
+          - paragraph [ref=e229]
+          - paragraph [ref=e230]
+  - status [ref=e231]

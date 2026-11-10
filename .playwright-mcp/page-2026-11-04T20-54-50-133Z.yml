@@ -1,0 +1,237 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Toolbar":
+      - menu:
+        - group [ref=e3]:
+          - menuitem "About WordPress" [ref=e4] [cursor=pointer]:
+            - generic [ref=e7]: About WordPress
+        - group [ref=e8]:
+          - menuitem "Cornelia Organics" [ref=e9] [cursor=pointer]:
+            - generic [ref=e10]: Cornelia Organics
+        - group [ref=e11]:
+          - menuitem "Shop coming soon" [ref=e12] [cursor=pointer]:
+            - generic [ref=e13]: Shop coming soon
+        - group [ref=e14]:
+          - menuitem "To adjust" [ref=e15] [cursor=pointer]:
+            - generic [ref=e16]: To adjust
+        - group [ref=e17]:
+          - menuitem "0 comments pending" [ref=e18] [cursor=pointer]:
+            - generic [ref=e21]: "0"
+            - generic [ref=e23]: 0 comments pending
+        - group [ref=e24]:
+          - menuitem "New" [ref=e25] [cursor=pointer]:
+            - generic [ref=e28]: New
+        - group [ref=e29]:
+          - menuitem "Edit category" [ref=e30] [cursor=pointer]:
+            - generic [ref=e31]: Edit category
+        - group [ref=e32]:
+          - menuitem "" [ref=e33] [cursor=pointer]:
+            - generic [ref=e34]: 
+      - menu [ref=e35]:
+        - group [ref=e36]:
+          - menuitem "Hello Happy Path Admin" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38]: Hello
+            - generic [ref=e40]: Happy Path Admin
+        - group [ref=e41]:
+          - menuitem "To search" [ref=e42]:
+            - generic [ref=e43]:
+              - textbox "To search" [ref=e44] [cursor=pointer]
+              - generic [ref=e46]: To search
+  - link "Skip to content" [ref=e47] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e48]: Skip to content
+  - generic [ref=e49]:
+    - banner [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e55]:
+          - generic [ref=e58]:
+            - link "Cornelia Organics" [ref=e60] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e61]
+            - generic [ref=e62]:
+              - link "Cornelia Organics" [ref=e64] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e65]: Cornelia Organics
+              - paragraph [ref=e66]:
+                - generic [ref=e67]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e71] [cursor=pointer]:
+            - generic [ref=e73]: Make an appointment
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - region "Header Widget 1" [ref=e79]
+            - link "Instagram" [ref=e88] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e90]
+          - navigation "Primary site navigation" [ref=e97]:
+            - list [ref=e99]:
+              - listitem [ref=e100]:
+                - link "Home Toggle Home submenu" [ref=e101] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e102]: Home
+                  - button "Toggle Home submenu" [ref=e103]:
+                    - img [ref=e105]
+              - listitem [ref=e107]:
+                - link "Treatments Toggle Treatments submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e109]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Products Toggle Products submenu" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e116]: Products
+                  - button "Toggle Products submenu" [ref=e117]:
+                    - img [ref=e119]
+              - listitem [ref=e121]:
+                - link "Hairdressing training" [ref=e122] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e123]: Hairdressing training
+              - listitem [ref=e124]:
+                - link "Gallery" [ref=e125] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e126]: Gallery
+              - listitem [ref=e127]:
+                - link "Shop Toggle Shop submenu" [ref=e128] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e129]: Shop
+                  - button "Toggle Shop submenu" [ref=e130]:
+                    - img [ref=e132]
+              - listitem [ref=e134]:
+                - link "Contact" [ref=e135] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e136]: Contact
+          - generic [ref=e137]:
+            - generic [ref=e139]:
+              - generic:
+                - generic:
+                  - link "Account icon link":
+                    - /url: https://corneliaorganics.com/account/
+            - link "View shopping cart, empty" [ref=e143] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e145]:
+                - img [ref=e147]
+                - text: "0"
+            - button "Search button" [ref=e152] [cursor=pointer]:
+              - generic [ref=e154]: To search
+              - img [ref=e156]
+    - generic [ref=e160]:
+      - generic [ref=e161]:
+        - heading "Body Care" [level=1] [ref=e162]:
+          - generic [ref=e163]: Body Care
+        - navigation "Breadcrumbs" [ref=e166]:
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - link "Home" [ref=e170] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e172]: Home
+              - text: »
+            - listitem [ref=e173]:
+              - link "Products" [ref=e174] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/
+                - generic [ref=e176]: Products
+              - text: »
+            - listitem [ref=e177]:
+              - generic [ref=e180]: Body Care
+      - main [ref=e181]:
+        - generic [ref=e182]:
+          - status [ref=e183]:
+            - generic [ref=e184]: Showing all 4 results
+            - generic [ref=e186]: Sorted by popularity
+          - combobox "Store order" [ref=e188]:
+            - option [selected]
+            - option
+            - option
+            - option
+          - list [ref=e189]:
+            - listitem [ref=e190]:
+              - link "Mas Newen Probiotic Cinnamon body wash" [ref=e192] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/body-care/mas-newen-probiotic-cinnemon-bodywash/
+                - img "Mas Newen Probiotic Cinnamon body wash" [ref=e193]
+              - generic [ref=e194]:
+                - generic [ref=e196]: Body Care
+                - link "Mas Newen Probiotic Cinnamon body wash" [ref=e197] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/mas-newen-probiotic-cinnemon-bodywash/
+                  - heading "Mas Newen Probiotic Cinnamon body wash" [level=2] [ref=e198]:
+                    - generic [ref=e199]: Mas Newen Probiotic Cinnamon body wash
+                - link "Read more about “Mas Newen Probiotic Cinnamon body wash”" [ref=e200] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/mas-newen-probiotic-cinnemon-bodywash/
+                  - generic [ref=e201]: Read more
+            - listitem [ref=e203]:
+              - link "Inner Glow Body Scrub" [ref=e205] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/body-care/innersense-body-scrub/
+                - img "Inner Glow Body Scrub" [ref=e206]
+              - generic [ref=e207]:
+                - generic [ref=e209]: Body Care
+                - link "Inner Glow Body Scrub" [ref=e210] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/innersense-body-scrub/
+                  - heading "Inner Glow Body Scrub" [level=2] [ref=e211]:
+                    - generic [ref=e212]: Inner Glow Body Scrub
+                - generic [ref=e215]:
+                  - text: €
+                  - generic [ref=e216]: "28.00"
+                - 'button "Add to cart: “Inner Glow Body Scrub“" [ref=e217] [cursor=pointer]':
+                  - generic [ref=e218]: Add to cart
+            - listitem [ref=e220]:
+              - link "Innersense Renew Body Lotion" [ref=e222] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/body-care/innersense-renew-body-lotion/
+                - img "Innersense Renew Body Lotion" [ref=e223]
+              - generic [ref=e224]:
+                - generic [ref=e226]: Body Care
+                - link "Innersense Renew Body Lotion" [ref=e227] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/innersense-renew-body-lotion/
+                  - heading "Innersense Renew Body Lotion" [level=2] [ref=e228]:
+                    - generic [ref=e229]: Innersense Renew Body Lotion
+                - generic [ref=e232]:
+                  - text: €
+                  - generic [ref=e233]: "21.00"
+                - 'button "Add to cart: “Innersense Renew Body Lotion“" [ref=e234] [cursor=pointer]':
+                  - generic [ref=e235]: Add to cart
+            - listitem [ref=e237]:
+              - link "Innersense Awaken Body Wash" [ref=e239] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/body-care/innersense-awaken-body-wash/
+                - img "Innersense Awaken Body Wash" [ref=e240]
+              - generic [ref=e241]:
+                - generic [ref=e243]: Body Care
+                - link "Innersense Awaken Body Wash" [ref=e244] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/innersense-awaken-body-wash/
+                  - heading "Innersense Awaken Body Wash" [level=2] [ref=e245]:
+                    - generic [ref=e246]: Innersense Awaken Body Wash
+                - generic [ref=e249]:
+                  - text: €
+                  - generic [ref=e250]: "21.00"
+                - 'button "Add to cart: “Innersense Awaken Body Wash“" [ref=e251] [cursor=pointer]':
+                  - generic [ref=e252]: Add to cart
+    - contentinfo [ref=e254]:
+      - generic [ref=e257]:
+        - link "Instagram" [ref=e262] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e264]
+          - generic [ref=e267]: Instagram
+        - generic [ref=e270]:
+          - paragraph [ref=e271]:
+            - generic [ref=e272]: "CoC: 86765574"
+            - generic [ref=e273]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e274]: All rights reserved.
+          - paragraph [ref=e275]
+          - paragraph [ref=e276]
+        - generic [ref=e280]:
+          - paragraph [ref=e281]:
+            - link "Terms and Conditions" [ref=e282] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e283]: Terms and Conditions
+          - paragraph [ref=e284]:
+            - link "Privacy Policy" [ref=e285] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e286]: Privacy Policy
+          - paragraph [ref=e287]
+          - paragraph [ref=e288]
+          - paragraph [ref=e289]
+          - paragraph [ref=e290]
+          - paragraph [ref=e291]
+  - generic [ref=e293]:
+    - generic [ref=e294]: This page is in "Coming Soon" mode and is only visible to you and those with permission. To make it public to everyone,
+    - link "change the visibility settings" [ref=e295] [cursor=pointer]:
+      - /url: https://corneliaorganics.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility
+      - generic [ref=e296]: change the visibility settings
+    - generic [ref=e297]: .
+  - status [ref=e299]

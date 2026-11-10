@@ -1,0 +1,112 @@
+- generic [active] [ref=e1]:
+  - link "Ga naar de inhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e9]:
+          - generic [ref=e12]:
+            - link "Cornelia Organics" [ref=e14] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e15]
+            - generic [ref=e16]:
+              - link "Cornelia Organics" [ref=e18] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+              - paragraph [ref=e19]: Krullenkapper van Utrecht | Eco Salon
+          - button "Maak een afspraak" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: Maak een afspraak
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - link "Account icoon link" [ref=e32] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fproduct-category%2Fbody-care
+              - img [ref=e34]
+            - link "View Shopping Cart, empty" [ref=e40] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e42]:
+                - img [ref=e44]
+                - text: "0"
+            - button "Zoekknop" [ref=e49] [cursor=pointer]:
+              - generic [ref=e50]: Zoeken
+              - img [ref=e52]
+          - navigation "Primaire site navigatie" [ref=e59]:
+            - list [ref=e61]:
+              - listitem [ref=e62]:
+                - link "Home Toggle Home submenu" [ref=e63] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - text: Home
+                  - button "Toggle Home submenu" [ref=e64]:
+                    - img [ref=e66]
+              - listitem [ref=e68]:
+                - link "Behandelingen Toggle Behandelingen submenu" [ref=e69] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - text: Behandelingen
+                  - button "Toggle Behandelingen submenu" [ref=e70]:
+                    - img [ref=e72]
+                - list [ref=e74]:
+                  - listitem [ref=e75]:
+                    - link "Krullen" [ref=e76] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                  - listitem [ref=e77]:
+                    - link "Wavy" [ref=e78] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                  - listitem [ref=e79]:
+                    - link "Signature Curly Highlights" [ref=e80] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                  - listitem [ref=e81]:
+                    - link "Grey Blending" [ref=e82] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+              - listitem [ref=e83]:
+                - link "Producten Toggle Producten submenu" [ref=e84] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - text: Producten
+                  - button "Toggle Producten submenu" [ref=e85]:
+                    - img [ref=e87]
+              - listitem [ref=e89]:
+                - link "Kapperstrainingen" [ref=e90] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+              - listitem [ref=e91]:
+                - link "Galerij" [ref=e92] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+              - listitem [ref=e93]:
+                - link "Shop Toggle Shop submenu" [ref=e94] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - text: Shop
+                  - button "Toggle Shop submenu" [ref=e95]:
+                    - img [ref=e97]
+              - listitem [ref=e99]:
+                - link "Contact" [ref=e100] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+          - generic [ref=e101]:
+            - region "Header Widget 1" [ref=e103]
+            - link "Instagram" [ref=e112] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e114]
+    - generic [ref=e120]:
+      - heading "Er zijn geweldige dingen in het verschiet" [level=1] [ref=e121]
+      - paragraph [ref=e122]: Er is iets moois in het vooruitzicht! Onze winkel wordt momenteel gebouwd en zal binnenkort online komen!
+    - contentinfo [ref=e123]:
+      - generic [ref=e126]:
+        - link "Instagram" [ref=e131] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e133]
+          - generic [ref=e135]: Instagram
+        - generic [ref=e138]:
+          - paragraph [ref=e139]:
+            - text: "KvK: 86765574"
+            - text: Copyright © 2026 Cornelia Organics
+            - text: Alle rechten voorbehouden.
+          - paragraph [ref=e140]
+          - paragraph [ref=e141]
+        - generic [ref=e145]:
+          - paragraph [ref=e146]:
+            - link "Voorwaarden" [ref=e147] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+          - paragraph [ref=e148]:
+            - link "Privacybeleid" [ref=e149] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+          - paragraph [ref=e150]
+          - paragraph [ref=e151]
+          - paragraph [ref=e152]
+          - paragraph [ref=e153]
+          - paragraph [ref=e154]
+  - status [ref=e155]

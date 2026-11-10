@@ -1,0 +1,202 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Toolbar":
+      - menu:
+        - group [ref=e3]:
+          - menuitem "About WordPress" [ref=e4] [cursor=pointer]:
+            - generic [ref=e7]: About WordPress
+        - group [ref=e8]:
+          - menuitem "Cornelia Organics" [ref=e9] [cursor=pointer]:
+            - generic [ref=e10]: Cornelia Organics
+        - group [ref=e11]:
+          - menuitem "Shop coming soon" [ref=e12] [cursor=pointer]:
+            - generic [ref=e13]: Shop coming soon
+        - group [ref=e14]:
+          - menuitem "To adjust" [ref=e15] [cursor=pointer]:
+            - generic [ref=e16]: To adjust
+        - group [ref=e17]:
+          - menuitem "0 comments pending" [ref=e18] [cursor=pointer]:
+            - generic [ref=e21]: "0"
+            - generic [ref=e23]: 0 comments pending
+        - group [ref=e24]:
+          - menuitem "New" [ref=e25] [cursor=pointer]:
+            - generic [ref=e28]: New
+        - group [ref=e29]:
+          - menuitem "Edit category" [ref=e30] [cursor=pointer]:
+            - generic [ref=e31]: Edit category
+        - group [ref=e32]:
+          - menuitem "" [ref=e33] [cursor=pointer]:
+            - generic [ref=e34]: 
+      - menu [ref=e35]:
+        - group [ref=e36]:
+          - menuitem "Hello Happy Path Admin" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38]: Hello
+            - generic [ref=e40]: Happy Path Admin
+        - group [ref=e41]:
+          - menuitem "To search" [ref=e42]:
+            - generic [ref=e43]:
+              - textbox "To search" [ref=e44] [cursor=pointer]
+              - generic [ref=e46]: To search
+  - link "Skip to content" [ref=e47] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e48]: Skip to content
+  - generic [ref=e49]:
+    - banner [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e55]:
+          - generic [ref=e58]:
+            - link "Cornelia Organics" [ref=e60] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e61]
+            - generic [ref=e62]:
+              - link "Cornelia Organics" [ref=e64] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e65]: Cornelia Organics
+              - paragraph [ref=e66]:
+                - generic [ref=e67]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e71] [cursor=pointer]:
+            - generic [ref=e73]: Make an appointment
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - region "Header Widget 1" [ref=e79]
+            - link "Instagram" [ref=e88] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e90]
+          - navigation "Primary site navigation" [ref=e97]:
+            - list [ref=e99]:
+              - listitem [ref=e100]:
+                - link "Home Toggle Home submenu" [ref=e101] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e102]: Home
+                  - button "Toggle Home submenu" [ref=e103]:
+                    - img [ref=e105]
+              - listitem [ref=e107]:
+                - link "Treatments Toggle Treatments submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e109]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Products Toggle Products submenu" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e116]: Products
+                  - button "Toggle Products submenu" [ref=e117]:
+                    - img [ref=e119]
+              - listitem [ref=e121]:
+                - link "Hairdressing training" [ref=e122] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e123]: Hairdressing training
+              - listitem [ref=e124]:
+                - link "Gallery" [ref=e125] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e126]: Gallery
+              - listitem [ref=e127]:
+                - link "Shop Toggle Shop submenu" [ref=e128] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e129]: Shop
+                  - button "Toggle Shop submenu" [ref=e130]:
+                    - img [ref=e132]
+              - listitem [ref=e134]:
+                - link "Contact" [ref=e135] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e136]: Contact
+          - generic [ref=e137]:
+            - generic [ref=e139]:
+              - generic:
+                - generic:
+                  - link "Account icon link":
+                    - /url: https://corneliaorganics.com/account/
+            - link "View shopping cart, empty" [ref=e143] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e145]:
+                - img [ref=e147]
+                - text: "0"
+            - button "Search button" [ref=e152] [cursor=pointer]:
+              - generic [ref=e154]: To search
+              - img [ref=e156]
+    - generic [ref=e160]:
+      - generic [ref=e161]:
+        - heading "Hair Care" [level=1] [ref=e162]:
+          - generic [ref=e163]: Hair Care
+        - navigation "Breadcrumbs" [ref=e166]:
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - link "Home" [ref=e170] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e172]: Home
+              - text: »
+            - listitem [ref=e173]:
+              - link "Products" [ref=e174] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/
+                - generic [ref=e176]: Products
+              - text: »
+            - listitem [ref=e177]:
+              - generic [ref=e180]: Hair Care
+      - main [ref=e181]:
+        - list [ref=e183]:
+          - listitem [ref=e184]:
+            - link "View product category Shampoo" [ref=e185] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/product-category/hair-care/shampoo/
+              - img "Shampoo" [ref=e186]
+              - heading "Shampoo 6 Products" [level=2] [ref=e187]:
+                - generic [ref=e188]: Shampoo
+                - mark [ref=e189]:
+                  - generic [ref=e190]: 6 Products
+          - listitem [ref=e191]:
+            - link "View product category Conditioner & Masks" [ref=e192] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/product-category/hair-care/conditioner-masks/
+              - img "Conditioner & Masks" [ref=e193]
+              - heading "Conditioner & Masks 10 Products" [level=2] [ref=e194]:
+                - generic [ref=e195]: Conditioner & Masks
+                - mark [ref=e196]:
+                  - generic [ref=e197]: 10 Products
+          - listitem [ref=e198]:
+            - link "View product category Scalp & Hair Treatments" [ref=e199] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/product-category/hair-care/scalp-hair-treatments/
+              - img "Scalp & Hair Treatments" [ref=e200]
+              - heading "Scalp & Hair Treatments 4 Products" [level=2] [ref=e201]:
+                - generic [ref=e202]: Scalp & Hair Treatments
+                - mark [ref=e203]:
+                  - generic [ref=e204]: 4 Products
+          - listitem [ref=e205]:
+            - link "View product category Styling" [ref=e206] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/product-category/hair-care/styling/
+              - img "Styling" [ref=e207]
+              - heading "Styling 11 Products" [level=2] [ref=e208]:
+                - generic [ref=e209]: Styling
+                - mark [ref=e210]:
+                  - generic [ref=e211]: 11 Products
+    - contentinfo [ref=e212]:
+      - generic [ref=e215]:
+        - link "Instagram" [ref=e220] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e222]
+          - generic [ref=e225]: Instagram
+        - generic [ref=e228]:
+          - paragraph [ref=e229]:
+            - generic [ref=e230]: "CoC: 86765574"
+            - generic [ref=e231]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e232]: All rights reserved.
+          - paragraph [ref=e233]
+          - paragraph [ref=e234]
+        - generic [ref=e238]:
+          - paragraph [ref=e239]:
+            - link "Terms and Conditions" [ref=e240] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e241]: Terms and Conditions
+          - paragraph [ref=e242]:
+            - link "Privacy Policy" [ref=e243] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e244]: Privacy Policy
+          - paragraph [ref=e245]
+          - paragraph [ref=e246]
+          - paragraph [ref=e247]
+          - paragraph [ref=e248]
+          - paragraph [ref=e249]
+  - generic [ref=e251]:
+    - generic [ref=e252]: This page is in "Coming Soon" mode and is only visible to you and those with permission. To make it public to everyone,
+    - link "change the visibility settings" [ref=e253] [cursor=pointer]:
+      - /url: https://corneliaorganics.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility
+      - generic [ref=e254]: change the visibility settings
+    - generic [ref=e255]: .
+  - status [ref=e257]

@@ -1,0 +1,259 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Toolbar":
+      - menu:
+        - group [ref=e3]:
+          - menuitem "About WordPress" [ref=e4] [cursor=pointer]:
+            - generic [ref=e7]: About WordPress
+        - group [ref=e8]:
+          - menuitem "Cornelia Organics" [ref=e9] [cursor=pointer]:
+            - generic [ref=e10]: Cornelia Organics
+        - group [ref=e11]:
+          - menuitem "Shop coming soon" [ref=e12] [cursor=pointer]:
+            - generic [ref=e13]: Shop coming soon
+        - group [ref=e14]:
+          - menuitem "To adjust" [ref=e15] [cursor=pointer]:
+            - generic [ref=e16]: To adjust
+        - group [ref=e17]:
+          - menuitem "0 comments pending" [ref=e18] [cursor=pointer]:
+            - generic [ref=e21]: "0"
+            - generic [ref=e23]: 0 comments pending
+        - group [ref=e24]:
+          - menuitem "New" [ref=e25] [cursor=pointer]:
+            - generic [ref=e28]: New
+        - group [ref=e29]:
+          - menuitem "Edit category" [ref=e30] [cursor=pointer]:
+            - generic [ref=e31]: Edit category
+        - group [ref=e32]:
+          - menuitem "" [ref=e33] [cursor=pointer]:
+            - generic [ref=e34]: 
+      - menu [ref=e35]:
+        - group [ref=e36]:
+          - menuitem "Hello Happy Path Admin" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38]: Hello
+            - generic [ref=e40]: Happy Path Admin
+        - group [ref=e41]:
+          - menuitem "To search" [ref=e42]:
+            - generic [ref=e43]:
+              - textbox "To search" [ref=e44] [cursor=pointer]
+              - generic [ref=e46]: To search
+  - link "Skip to content" [ref=e47] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e48]: Skip to content
+  - generic [ref=e49]:
+    - banner [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e55]:
+          - generic [ref=e58]:
+            - link "Cornelia Organics" [ref=e60] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e61]
+            - generic [ref=e62]:
+              - link "Cornelia Organics" [ref=e64] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e65]: Cornelia Organics
+              - paragraph [ref=e66]:
+                - generic [ref=e67]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e71] [cursor=pointer]:
+            - generic [ref=e73]: Make an appointment
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - region "Header Widget 1" [ref=e79]
+            - link "Instagram" [ref=e88] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e90]
+          - navigation "Primary site navigation" [ref=e97]:
+            - list [ref=e99]:
+              - listitem [ref=e100]:
+                - link "Home Toggle Home submenu" [ref=e101] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e102]: Home
+                  - button "Toggle Home submenu" [ref=e103]:
+                    - img [ref=e105]
+              - listitem [ref=e107]:
+                - link "Treatments Toggle Treatments submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e109]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Products Toggle Products submenu" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e116]: Products
+                  - button "Toggle Products submenu" [ref=e117]:
+                    - img [ref=e119]
+              - listitem [ref=e121]:
+                - link "Hairdressing training" [ref=e122] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e123]: Hairdressing training
+              - listitem [ref=e124]:
+                - link "Gallery" [ref=e125] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e126]: Gallery
+              - listitem [ref=e127]:
+                - link "Shop Toggle Shop submenu" [ref=e128] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e129]: Shop
+                  - button "Toggle Shop submenu" [ref=e130]:
+                    - img [ref=e132]
+              - listitem [ref=e134]:
+                - link "Contact" [ref=e135] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e136]: Contact
+          - generic [ref=e137]:
+            - generic [ref=e139]:
+              - generic:
+                - generic:
+                  - link "Account icon link":
+                    - /url: https://corneliaorganics.com/account/
+            - link "View shopping cart, empty" [ref=e143] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e145]:
+                - img [ref=e147]
+                - text: "0"
+            - button "Search button" [ref=e152] [cursor=pointer]:
+              - generic [ref=e154]: To search
+              - img [ref=e156]
+    - generic [ref=e160]:
+      - generic [ref=e161]:
+        - heading "Shampoo" [level=1] [ref=e162]:
+          - generic [ref=e163]: Shampoo
+        - paragraph [ref=e164]:
+          - generic [ref=e165]: Shampoos & Hairbaths
+        - navigation "Breadcrumbs" [ref=e168]:
+          - list [ref=e170]:
+            - listitem [ref=e171]:
+              - link "Home" [ref=e172] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e174]: Home
+              - text: »
+            - listitem [ref=e175]:
+              - link "Products" [ref=e176] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/
+                - generic [ref=e178]: Products
+              - text: »
+            - listitem [ref=e179]:
+              - link "Hair Care" [ref=e180] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/product-category/hair-care/
+                - generic [ref=e182]: Hair Care
+              - text: »
+            - listitem [ref=e183]:
+              - generic [ref=e186]: Shampoo
+      - main [ref=e187]:
+        - generic [ref=e188]:
+          - status [ref=e189]:
+            - generic [ref=e190]: Showing result 1–4 of 6 results
+            - generic [ref=e192]: Sorted by popularity
+          - combobox "Store order" [ref=e194]:
+            - option [selected]
+            - option
+            - option
+            - option
+          - list [ref=e195]:
+            - listitem [ref=e196]:
+              - link "Mas Newen Probiotic Lemongrass Shampoo" [ref=e198] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/hair-care/mas-newen-probiotic-lemongrass-shampoo/
+                - img "Mas Newen Probiotic Lemongrass Shampoo" [ref=e199]
+              - generic [ref=e200]:
+                - generic [ref=e202]: Hair Care
+                - link "Mas Newen Probiotic Lemongrass Shampoo" [ref=e203] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/hair-care/mas-newen-probiotic-lemongrass-shampoo/
+                  - heading "Mas Newen Probiotic Lemongrass Shampoo" [level=2] [ref=e204]:
+                    - generic [ref=e205]: Mas Newen Probiotic Lemongrass Shampoo
+                - generic [ref=e208]:
+                  - text: €
+                  - generic [ref=e209]: "35.00"
+                - 'button "Add to cart: “Mas Newen Probiotic Lemongrass Shampoo“" [ref=e210] [cursor=pointer]':
+                  - generic [ref=e211]: Add to cart
+            - listitem [ref=e213]:
+              - link "Innersense Hair Renew Scalp Hairbath" [ref=e215] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/hair-care/innersense-hair-renew-scalp-hairbath/
+                - img "Innersense Hair Renew Scalp Hairbath" [ref=e216]
+              - generic [ref=e217]:
+                - generic [ref=e219]: Hair Care
+                - link "Innersense Hair Renew Scalp Hairbath" [ref=e220] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/hair-care/innersense-hair-renew-scalp-hairbath/
+                  - heading "Innersense Hair Renew Scalp Hairbath" [level=2] [ref=e221]:
+                    - generic [ref=e222]: Innersense Hair Renew Scalp Hairbath
+                - generic [ref=e225]:
+                  - text: €
+                  - generic [ref=e226]: "36.00"
+                - 'button "Add to cart: “Innersense Hair Renew Scalp Hairbath“" [ref=e227] [cursor=pointer]':
+                  - generic [ref=e228]: Add to cart
+            - listitem [ref=e230]:
+              - link "Innersense Clarity hair bath" [ref=e232] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/hair-care/innersense-clarity-hairbath/
+                - img "Innersense Clarity hair bath" [ref=e233]
+              - generic [ref=e234]:
+                - generic [ref=e236]: Hair Care
+                - link "Innersense Clarity hair bath" [ref=e237] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/hair-care/innersense-clarity-hairbath/
+                  - heading "Innersense Clarity hair bath" [level=2] [ref=e238]:
+                    - generic [ref=e239]: Innersense Clarity hair bath
+                - generic [ref=e242]:
+                  - text: €
+                  - generic [ref=e243]: "34.00"
+                - 'button "Add to cart: “Innersense Clarity hairbath“" [ref=e244] [cursor=pointer]':
+                  - generic [ref=e245]: Add to cart
+            - listitem [ref=e247]:
+              - link "Innersense Color Awakening Hairbath" [ref=e249] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/hair-care/innersense-color-awakening-hairbath/
+                - img "Innersense Color Awakening Hairbath" [ref=e250]
+              - generic [ref=e251]:
+                - generic [ref=e253]: Hair Care
+                - link "Innersense Color Awakening Hairbath" [ref=e254] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/hair-care/innersense-color-awakening-hairbath/
+                  - heading "Innersense Color Awakening Hairbath" [level=2] [ref=e255]:
+                    - generic [ref=e256]: Innersense Color Awakening Hairbath
+                - generic [ref=e259]:
+                  - text: €
+                  - generic [ref=e260]: "34.00"
+                - 'button "Add to cart: “Innersense Color Awakening Hairbath“" [ref=e261] [cursor=pointer]':
+                  - generic [ref=e262]: Add to cart
+          - navigation "product page layout" [ref=e264]:
+            - list [ref=e265]:
+              - listitem [ref=e266]:
+                - generic "Page 1" [ref=e267]:
+                  - generic [ref=e268]: "1"
+              - listitem [ref=e269]:
+                - link "Page 2" [ref=e270] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/product-category/hair-care/shampoo/page/2/
+                  - generic [ref=e271]: "2"
+              - listitem [ref=e272]:
+                - link "→" [ref=e273] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/product-category/hair-care/shampoo/page/2/
+                  - generic [ref=e274]: →
+    - contentinfo [ref=e275]:
+      - generic [ref=e278]:
+        - link "Instagram" [ref=e283] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e285]
+          - generic [ref=e288]: Instagram
+        - generic [ref=e291]:
+          - paragraph [ref=e292]:
+            - generic [ref=e293]: "CoC: 86765574"
+            - generic [ref=e294]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e295]: All rights reserved.
+          - paragraph [ref=e296]
+          - paragraph [ref=e297]
+        - generic [ref=e301]:
+          - paragraph [ref=e302]:
+            - link "Terms and Conditions" [ref=e303] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e304]: Terms and Conditions
+          - paragraph [ref=e305]:
+            - link "Privacy Policy" [ref=e306] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e307]: Privacy Policy
+          - paragraph [ref=e308]
+          - paragraph [ref=e309]
+          - paragraph [ref=e310]
+          - paragraph [ref=e311]
+          - paragraph [ref=e312]
+  - generic [ref=e314]:
+    - generic [ref=e315]: This page is in "Coming Soon" mode and is only visible to you and those with permission. To make it public to everyone,
+    - link "change the visibility settings" [ref=e316] [cursor=pointer]:
+      - /url: https://corneliaorganics.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility
+      - generic [ref=e317]: change the visibility settings
+    - generic [ref=e318]: .
+  - status [ref=e320]

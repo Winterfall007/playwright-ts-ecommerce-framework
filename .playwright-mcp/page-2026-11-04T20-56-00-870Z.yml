@@ -1,0 +1,255 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Toolbar":
+      - menu:
+        - group [ref=e3]:
+          - menuitem "About WordPress" [ref=e256] [cursor=pointer]:
+            - generic [ref=e257]: About WordPress
+        - group [ref=e7]:
+          - menuitem "Cornelia Organics" [ref=e8] [cursor=pointer]:
+            - generic [ref=e258]: Cornelia Organics
+        - group [ref=e9]:
+          - menuitem "Shop coming soon" [ref=e259] [cursor=pointer]:
+            - generic [ref=e260]: Shop coming soon
+        - group [ref=e11]:
+          - menuitem "To adjust" [ref=e261] [cursor=pointer]:
+            - generic [ref=e262]: To adjust
+        - group [ref=e13]:
+          - menuitem "0 comments pending" [ref=e263] [cursor=pointer]:
+            - generic [ref=e264]: "0"
+            - generic [ref=e265]: 0 comments pending
+        - group [ref=e18]:
+          - menuitem "New" [ref=e266] [cursor=pointer]:
+            - generic [ref=e267]: New
+        - group [ref=e22]:
+          - menuitem "Edit page" [ref=e268] [cursor=pointer]:
+            - generic [ref=e269]: Edit page
+        - group [ref=e24]:
+          - menuitem "" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]: 
+      - menu [ref=e27]:
+        - group [ref=e28]:
+          - menuitem "Hello Happy Path Admin" [ref=e270] [cursor=pointer]:
+            - generic [ref=e271]: Hello
+            - generic [ref=e273]: Happy Path Admin
+        - group [ref=e30]:
+          - menuitem "To search" [ref=e274]:
+            - generic [ref=e32]:
+              - textbox "To search" [ref=e275] [cursor=pointer]
+              - generic [ref=e276]: To search
+  - link "Skip to content" [ref=e277] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e278]: Skip to content
+  - generic [ref=e36]:
+    - banner [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e42]:
+          - generic [ref=e45]:
+            - link "Cornelia Organics" [ref=e47] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e48]
+            - generic [ref=e49]:
+              - link "Cornelia Organics" [ref=e51] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e279]: Cornelia Organics
+              - paragraph [ref=e52]:
+                - generic [ref=e280]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e281] [cursor=pointer]:
+            - generic [ref=e282]: Make an appointment
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - region "Header Widget 1" [ref=e63]
+            - link "Instagram" [ref=e72] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e74]
+          - navigation "Primary site navigation" [ref=e283]:
+            - list [ref=e83]:
+              - listitem [ref=e84]:
+                - link "Home Toggle Home submenu" [ref=e85] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e284]: Home
+                  - button "Toggle Home submenu" [ref=e86]:
+                    - img [ref=e88]
+              - listitem [ref=e90]:
+                - link "Treatments Toggle Treatments submenu" [ref=e285] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e286]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e287]:
+                    - img [ref=e94]
+              - listitem [ref=e96]:
+                - link "Products Toggle Products submenu" [ref=e288] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e289]: Products
+                  - button "Toggle Products submenu" [ref=e290]:
+                    - img [ref=e100]
+              - listitem [ref=e102]:
+                - link "Hairdressing training" [ref=e291] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e292]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e293] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e294]: Gallery
+              - listitem [ref=e106]:
+                - link "Shop Toggle Shop submenu" [ref=e107] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e295]: Shop
+                  - button "Toggle Shop submenu" [ref=e108]:
+                    - img [ref=e110]
+              - listitem [ref=e112]:
+                - link "Contact" [ref=e113] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e296]: Contact
+          - generic [ref=e114]:
+            - generic [ref=e116]:
+              - generic:
+                - generic:
+                  - link "Account icon link":
+                    - /url: https://corneliaorganics.com/account/
+            - link "View shopping cart, 1 item" [ref=e297] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e121]:
+                - generic [ref=e124]:
+                  - generic [ref=e299]: €
+                  - generic [ref=e300]: "28.00"
+                - generic [ref=e125]:
+                  - img [ref=e127]
+                  - text: "1"
+            - button "Search button" [ref=e301] [cursor=pointer]:
+              - generic [ref=e302]: To search
+              - img [ref=e135]
+    - main [ref=e140]:
+      - article [ref=e141]:
+        - generic [ref=e144]:
+          - table [ref=e146]:
+            - rowgroup [ref=e147]:
+              - row "Remove item Thumbnail image Product Price Number Subtotal" [ref=e303]:
+                - columnheader "Remove item" [ref=e304]:
+                  - generic [ref=e305]: Remove item
+                - columnheader "Thumbnail image" [ref=e306]:
+                  - generic [ref=e307]: Thumbnail image
+                - columnheader "Product" [ref=e153]:
+                  - generic [ref=e308]: Product
+                - columnheader "Price" [ref=e309]:
+                  - generic [ref=e310]: Price
+                - columnheader "Number" [ref=e311]:
+                  - generic [ref=e312]: Number
+                - columnheader "Subtotal" [ref=e313]:
+                  - generic [ref=e314]: Subtotal
+            - rowgroup [ref=e157]:
+              - row "Remove Inner Glow Body Scrub from shopping cart Inner Glow Body Scrub Inner Glow Body Scrub € 28.00 Minus quantity - Inner Glow Body Scrub quantity 1 Plus quantity + € 28.00" [ref=e315]:
+                - cell "Remove Inner Glow Body Scrub from shopping cart" [ref=e316]:
+                  - button "Remove Inner Glow Body Scrub from shopping cart" [active] [ref=e317] [cursor=pointer]:
+                    - img [ref=e162]
+                - cell "Inner Glow Body Scrub" [ref=e164]:
+                  - link "Inner Glow Body Scrub" [ref=e165] [cursor=pointer]:
+                    - /url: https://corneliaorganics.com/shop/body-care/innersense-body-scrub/
+                    - img "Inner Glow Body Scrub" [ref=e166]
+                - rowheader "Inner Glow Body Scrub" [ref=e167]:
+                  - link "Inner Glow Body Scrub" [ref=e168] [cursor=pointer]:
+                    - /url: https://corneliaorganics.com/shop/body-care/innersense-body-scrub/
+                    - generic [ref=e318]: Inner Glow Body Scrub
+                - cell "€ 28.00" [ref=e319]:
+                  - generic [ref=e171]:
+                    - text: €
+                    - generic [ref=e320]: "28.00"
+                - cell "Minus quantity - Inner Glow Body Scrub quantity 1 Plus quantity +" [ref=e321]:
+                  - generic [ref=e173]:
+                    - generic [ref=e322]: Minus quantity
+                    - link "-" [ref=e175] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                      - generic [ref=e323]: "-"
+                    - generic [ref=e324]: Inner Glow Body Scrub quantity
+                    - spinbutton "Product quantity" [ref=e325]: "1"
+                    - generic [ref=e326]: Plus quantity
+                    - link "+" [ref=e179] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                      - generic [ref=e327]: +
+                - cell "€ 28.00" [ref=e328]:
+                  - generic [ref=e182]:
+                    - text: €
+                    - generic [ref=e329]: "28.00"
+              - row "Apply voucher Update shopping cart" [ref=e330]:
+                - cell "Apply voucher Update shopping cart" [ref=e331]:
+                  - generic [ref=e185]:
+                    - textbox "Voucher:" [ref=e332]:
+                      - /placeholder: Voucher code
+                    - button "Apply voucher" [ref=e333] [cursor=pointer]:
+                      - generic [ref=e334]: Apply voucher
+                  - button "Update shopping cart" [disabled] [ref=e335]:
+                    - generic [ref=e336]: Update shopping cart
+          - generic [ref=e190]:
+            - heading "Shopping cart totals" [level=2] [ref=e337]:
+              - generic [ref=e338]: Shopping cart totals
+            - table [ref=e192]:
+              - rowgroup [ref=e193]:
+                - row "Subtotal € 28.00" [ref=e339]:
+                  - rowheader "Subtotal" [ref=e340]:
+                    - generic [ref=e341]: Subtotal
+                  - cell "€ 28.00" [ref=e342]:
+                    - generic [ref=e198]:
+                      - text: €
+                      - generic [ref=e343]: "28.00"
+                - row "Dispatch PostNL:€ 560.00 Send to Smakkelaarshoek 5, Studio 8, 3511 EC Utrecht . Change address" [ref=e344]:
+                  - rowheader "Dispatch" [ref=e345]:
+                    - generic [ref=e346]: Dispatch
+                  - cell "PostNL:€ 560.00 Send to Smakkelaarshoek 5, Studio 8, 3511 EC Utrecht . Change address" [ref=e347]:
+                    - list [ref=e202]:
+                      - listitem [ref=e203]:
+                        - generic [ref=e204]:
+                          - generic [ref=e348]: "PostNL:"
+                          - generic [ref=e206]:
+                            - text: €
+                            - generic [ref=e349]: "560.00"
+                    - paragraph [ref=e207]:
+                      - generic [ref=e350]: Send to
+                      - strong [ref=e208]:
+                        - generic [ref=e351]: Smakkelaarshoek 5, Studio 8, 3511 EC Utrecht
+                      - generic [ref=e352]: .
+                    - button "Change address" [ref=e353] [cursor=pointer]:
+                      - generic [ref=e354]: Change address
+                - row "Total € 588.00" [ref=e355]:
+                  - rowheader "Total" [ref=e356]:
+                    - generic [ref=e357]: Total
+                  - cell "€ 588.00" [ref=e358]:
+                    - strong [ref=e214]:
+                      - generic [ref=e216]:
+                        - text: €
+                        - generic [ref=e359]: "588.00"
+            - link "Checkout" [ref=e218] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/checkout/
+              - generic [ref=e360]: Checkout
+    - contentinfo [ref=e219]:
+      - generic [ref=e222]:
+        - link "Instagram" [ref=e227] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e229]
+          - generic [ref=e361]: Instagram
+        - generic [ref=e234]:
+          - paragraph [ref=e235]:
+            - generic [ref=e362]: "CoC: 86765574"
+            - generic [ref=e363]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e364]: All rights reserved.
+          - paragraph [ref=e236]
+          - paragraph [ref=e237]
+        - generic [ref=e241]:
+          - paragraph [ref=e242]:
+            - link "Terms and Conditions" [ref=e365] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e366]: Terms and Conditions
+          - paragraph [ref=e244]:
+            - link "Privacy Policy" [ref=e367] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e368]: Privacy Policy
+          - paragraph [ref=e246]
+          - paragraph [ref=e247]
+          - paragraph [ref=e248]
+          - paragraph [ref=e249]
+          - paragraph [ref=e250]
+  - generic [ref=e252]:
+    - generic [ref=e369]: This page is in "Coming Soon" mode and is only visible to you and those with permission. To make it public to everyone,
+    - link "change the visibility settings" [ref=e370] [cursor=pointer]:
+      - /url: https://corneliaorganics.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility
+      - generic [ref=e371]: change the visibility settings
+    - generic [ref=e372]: .
+  - status [ref=e255]

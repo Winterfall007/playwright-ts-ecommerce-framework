@@ -1,0 +1,242 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Toolbar":
+      - menu:
+        - group [ref=e3]:
+          - menuitem "Over WordPress" [ref=e4] [cursor=pointer]:
+            - generic [ref=e6]: Over WordPress
+        - group [ref=e7]:
+          - menuitem "Cornelia Organics" [ref=e8] [cursor=pointer]
+        - group [ref=e9]:
+          - menuitem "Winkel binnenkort beschikbaar" [ref=e10] [cursor=pointer]
+        - group [ref=e11]:
+          - menuitem "Aanpassen" [ref=e12] [cursor=pointer]
+        - group [ref=e13]:
+          - menuitem "0 reacties in afwachting" [ref=e14] [cursor=pointer]:
+            - generic [ref=e16]: "0"
+            - generic [ref=e17]: 0 reacties in afwachting
+        - group [ref=e18]:
+          - menuitem "Nieuw" [ref=e19] [cursor=pointer]:
+            - generic [ref=e21]: Nieuw
+        - group [ref=e22]:
+          - menuitem "Product bewerken" [ref=e23] [cursor=pointer]
+        - group [ref=e24]:
+          - menuitem "" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]: 
+      - menu [ref=e27]:
+        - group [ref=e28]:
+          - menuitem "Hallo Happy Path Admin" [ref=e29] [cursor=pointer]
+        - group [ref=e30]:
+          - menuitem "Zoeken" [ref=e31]:
+            - generic [ref=e32]:
+              - textbox "Zoeken" [ref=e33] [cursor=pointer]
+              - generic [ref=e34]: Zoeken
+  - link "Ga naar de inhoud" [ref=e35] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e36]:
+    - banner [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e42]:
+          - generic [ref=e45]:
+            - link "Cornelia Organics" [ref=e47] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e48]
+            - generic [ref=e49]:
+              - link "Cornelia Organics" [ref=e51] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+              - paragraph [ref=e52]: Krullenkapper van Utrecht | Eco Salon
+          - button "Maak een afspraak" [ref=e56] [cursor=pointer]:
+            - generic [ref=e57]: Maak een afspraak
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - region "Header Widget 1" [ref=e63]
+            - link "Instagram" [ref=e72] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e74]
+          - navigation "Primaire site navigatie" [ref=e81]:
+            - list [ref=e83]:
+              - listitem [ref=e84]:
+                - link "Home Toggle Home submenu" [ref=e85] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - text: Home
+                  - button "Toggle Home submenu" [ref=e86]:
+                    - img [ref=e88]
+              - listitem [ref=e90]:
+                - link "Behandelingen Toggle Behandelingen submenu" [ref=e91] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - text: Behandelingen
+                  - button "Toggle Behandelingen submenu" [ref=e92]:
+                    - img [ref=e94]
+              - listitem [ref=e96]:
+                - link "Producten Toggle Producten submenu" [ref=e97] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - text: Producten
+                  - button "Toggle Producten submenu" [ref=e98]:
+                    - img [ref=e100]
+              - listitem [ref=e102]:
+                - link "Kapperstrainingen" [ref=e103] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+              - listitem [ref=e104]:
+                - link "Galerij" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+              - listitem [ref=e106]:
+                - link "Shop Toggle Shop submenu" [ref=e107] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - text: Shop
+                  - button "Toggle Shop submenu" [ref=e108]:
+                    - img [ref=e110]
+              - listitem [ref=e112]:
+                - link "Contact" [ref=e113] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+          - generic [ref=e114]:
+            - generic [ref=e116]:
+              - generic:
+                - generic:
+                  - link "Account icoon link":
+                    - /url: https://corneliaorganics.com/account/
+            - link "Winkelwagen weergeven, leeg" [ref=e120] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e122]:
+                - img [ref=e124]
+                - text: "0"
+            - button "Zoekknop" [ref=e129] [cursor=pointer]:
+              - generic [ref=e130]: Zoeken
+              - img [ref=e132]
+    - generic [ref=e135]:
+      - heading "Inner Glow Body Scrub" [level=1] [ref=e136]
+      - navigation "Kruimelpaden" [ref=e139]:
+        - list [ref=e141]:
+          - listitem [ref=e142]:
+            - link "Home" [ref=e143] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+            - text: »
+          - listitem [ref=e144]:
+            - link "Shop" [ref=e145] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/shop/
+            - text: »
+          - listitem [ref=e146]:
+            - link "Producten" [ref=e147] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/shop/
+            - text: »
+          - listitem [ref=e148]:
+            - link "Body Care" [ref=e149] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/product-category/body-care/
+            - text: »
+          - listitem [ref=e150]:
+            - generic [ref=e151]: Inner Glow Body Scrub
+    - main [ref=e155]:
+      - generic [ref=e157]:
+        - generic [ref=e158]:
+          - button "Afbeeldinggalerij in volledig scherm bekijken" [ref=e159] [cursor=pointer]:
+            - img [ref=e161]
+          - link "Inner Glow Body Scrub" [ref=e164] [cursor=pointer]:
+            - /url: https://corneliaorganics.com/wp-content/uploads/2025/07/Inner_Glow_Body_Scrub-1_667x1000-square.webp
+            - img "Inner Glow Body Scrub" [ref=e165]
+        - generic [ref=e166]:
+          - navigation "Breadcrumb" [ref=e167]:
+            - link "Home" [ref=e168] [cursor=pointer]:
+              - /url: https://corneliaorganics.com
+            - text: /
+            - link "Shop" [ref=e169] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/shop/
+            - text: /
+            - link "Body Care" [ref=e170] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/product-category/body-care/
+            - text: / Inner Glow Body Scrub
+          - link "Body Care" [ref=e172] [cursor=pointer]:
+            - /url: https://corneliaorganics.com/product-category/body-care/
+          - heading "Inner Glow Body Scrub" [level=1] [ref=e173]
+          - paragraph [ref=e174]:
+            - generic [ref=e176]: € 28,00
+          - paragraph [ref=e177]: "Beschikbaarheid: 2 op voorraad"
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - generic [ref=e180]: Minus hoeveelheid
+              - link "-" [ref=e181] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - generic [ref=e182]: Inner Glow Body Scrub aantal
+              - spinbutton "Productaantal" [ref=e183]: "1"
+              - generic [ref=e184]: Plus hoeveelheid
+              - link "+" [ref=e185] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - button "Toevoegen aan winkelwagen" [ref=e186] [cursor=pointer]
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - text: "Categorie:"
+              - link "Body Care" [ref=e189] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/product-category/body-care/
+            - generic [ref=e190]:
+              - text: "Merk:"
+              - link "Innersense Body Care" [ref=e191] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/merk/innersense-organic-beauty/innersense-body-care/
+              - text: ","
+              - link "Innersense Organic Beauty" [ref=e192] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/merk/innersense-organic-beauty/
+        - generic [ref=e193]:
+          - tablist [ref=e194]:
+            - tab "Beschrijving" [selected] [ref=e195] [cursor=pointer]
+            - tab "Aanvullende informatie" [ref=e196] [cursor=pointer]
+          - tabpanel "Beschrijving" [ref=e197]:
+            - paragraph [ref=e198]: Exfoliërende lichaamsscrub
+            - paragraph [ref=e199]:
+              - strong [ref=e200]: Het beste voor alle lichaamstypes.
+            - generic [ref=e201]:
+              - paragraph [ref=e202]: Gel bodyscrub. Suikerkristallen verwijderen doffe huidcellen, terwijl enzymen van granaatappel en papaja de huid zachtjes exfoliëren, waardoor deze gerevitaliseerd en verfrist aanvoelt. Vitarevive Trio, een mix van vitamine B5, C en D, bekend om hun gunstige effecten op het haar, verhoogt de hydratatie, glans en elasticiteit.
+              - paragraph [ref=e203]: 200 ML
+        - generic [ref=e204]:
+          - heading "Gerelateerde producten" [level=2] [ref=e205]
+          - list [ref=e206]:
+            - listitem [ref=e207]:
+              - link "Innersense Awaken Body Wash" [ref=e209] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/body-care/innersense-awaken-body-wash/
+                - img "Innersense Awaken Body Wash" [ref=e210]
+              - generic [ref=e211]:
+                - generic [ref=e212]: Body Care
+                - link "Innersense Awaken Body Wash" [ref=e213] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/innersense-awaken-body-wash/
+                  - heading "Innersense Awaken Body Wash" [level=2] [ref=e214]
+                - generic [ref=e217]: € 21,00
+                - 'button "Toevoegen aan winkelwagen: “Innersense Awaken Body Wash“" [ref=e218] [cursor=pointer]': Toevoegen aan winkelwagen
+            - listitem [ref=e220]:
+              - link "Mas Newen Probiotic Cinnamon bodywash" [ref=e222] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/shop/body-care/mas-newen-probiotic-cinnemon-bodywash/
+                - img "Mas Newen Probiotic Cinnamon bodywash" [ref=e223]
+              - generic [ref=e224]:
+                - generic [ref=e225]: Body Care
+                - link "Mas Newen Probiotic Cinnamon bodywash" [ref=e226] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/mas-newen-probiotic-cinnemon-bodywash/
+                  - heading "Mas Newen Probiotic Cinnamon bodywash" [level=2] [ref=e227]
+                - link "Lees meer over “Mas Newen Probiotic Cinnamon bodywash”" [ref=e228] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/body-care/mas-newen-probiotic-cinnemon-bodywash/
+                  - text: Lees verder
+    - contentinfo [ref=e230]:
+      - generic [ref=e233]:
+        - link "Instagram" [ref=e238] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e240]
+          - generic [ref=e242]: Instagram
+        - generic [ref=e245]:
+          - paragraph [ref=e246]:
+            - text: "KvK: 86765574"
+            - text: Copyright © 2026 Cornelia Organics
+            - text: Alle rechten voorbehouden.
+          - paragraph [ref=e247]
+          - paragraph [ref=e248]
+        - generic [ref=e252]:
+          - paragraph [ref=e253]:
+            - link "Voorwaarden" [ref=e254] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+          - paragraph [ref=e255]:
+            - link "Privacybeleid" [ref=e256] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+          - paragraph [ref=e257]
+          - paragraph [ref=e258]
+          - paragraph [ref=e259]
+          - paragraph [ref=e260]
+          - paragraph [ref=e261]
+  - generic [ref=e263]:
+    - text: Deze pagina staat in "Binnenkort beschikbaar" modus en is alleen zichtbaar voor je en degenen die toestemming hebben. Om het voor iedereen openbaar te maken,
+    - link "wijzig de zichtbaarheid instellingen" [ref=e264] [cursor=pointer]:
+      - /url: https://corneliaorganics.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility
+    - text: .
+  - status [ref=e266]

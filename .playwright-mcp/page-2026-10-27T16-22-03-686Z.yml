@@ -1,0 +1,158 @@
+- generic [active] [ref=e1]:
+  - link "Ga naar de inhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e9]:
+          - generic [ref=e12]:
+            - link "Cornelia Organics" [ref=e14] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e15]
+            - generic [ref=e16]:
+              - link "Cornelia Organics" [ref=e18] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+              - paragraph [ref=e19]: Krullenkapper van Utrecht | Eco Salon
+          - button "Maak een afspraak" [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: Maak een afspraak
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - link "Account icoon link" [ref=e32] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fprivacybeleid
+              - img [ref=e34]
+            - link "View Shopping Cart, empty" [ref=e40] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e42]:
+                - img [ref=e44]
+                - text: "0"
+            - button "Zoekknop" [ref=e49] [cursor=pointer]:
+              - generic [ref=e50]: Zoeken
+              - img [ref=e52]
+          - navigation "Primaire site navigatie" [ref=e59]:
+            - list [ref=e61]:
+              - listitem [ref=e62]:
+                - link "Home Toggle Home submenu" [ref=e63] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - text: Home
+                  - button "Toggle Home submenu" [ref=e64]:
+                    - img [ref=e66]
+              - listitem [ref=e68]:
+                - link "Behandelingen Toggle Behandelingen submenu" [ref=e69] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - text: Behandelingen
+                  - button "Toggle Behandelingen submenu" [ref=e70]:
+                    - img [ref=e72]
+                - list [ref=e74]:
+                  - listitem [ref=e75]:
+                    - link "Krullen" [ref=e76] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                  - listitem [ref=e77]:
+                    - link "Wavy" [ref=e78] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                  - listitem [ref=e79]:
+                    - link "Signature Curly Highlights" [ref=e80] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                  - listitem [ref=e81]:
+                    - link "Grey Blending" [ref=e82] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+              - listitem [ref=e83]:
+                - link "Producten Toggle Producten submenu" [ref=e84] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - text: Producten
+                  - button "Toggle Producten submenu" [ref=e85]:
+                    - img [ref=e87]
+              - listitem [ref=e89]:
+                - link "Kapperstrainingen" [ref=e90] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+              - listitem [ref=e91]:
+                - link "Galerij" [ref=e92] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+              - listitem [ref=e93]:
+                - link "Shop Toggle Shop submenu" [ref=e94] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - text: Shop
+                  - button "Toggle Shop submenu" [ref=e95]:
+                    - img [ref=e97]
+              - listitem [ref=e99]:
+                - link "Contact" [ref=e100] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+          - generic [ref=e101]:
+            - region "Header Widget 1" [ref=e103]
+            - link "Instagram" [ref=e112] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e114]
+    - main [ref=e119]:
+      - article [ref=e120]:
+        - heading "Privacybeleid" [level=1] [ref=e122]
+        - generic [ref=e123]:
+          - heading "Privacybeleid" [level=2] [ref=e124]
+          - generic [ref=e125]:
+            - heading "Wie we zijn" [level=3] [ref=e126]
+            - paragraph [ref=e127]:
+              - text: "Het adres van onze website is:"
+              - link "https://corneliaorganics.com" [ref=e128] [cursor=pointer]:
+                - /url: https://www.corneliaorganics.com
+              - text: .
+          - generic [ref=e129]:
+            - heading "Reacties" [level=4] [ref=e130]
+            - paragraph [ref=e131]: Wanneer bezoekers reacties achterlaten op de site, verzamelen we de gegevens die worden weergegeven in het reactieformulier, evenals het IP-adres van de bezoeker en de browser user agent string om spamdetectie te helpen.
+            - paragraph [ref=e132]:
+              - text: "Een geanonimiseerde tekstreeks, gemaakt op basis van uw e-mailadres (ook wel een hash genoemd), kan worden verstrekt aan de Gravatar-service om te controleren of u deze gebruikt. Het privacybeleid van de Gravatar-service is hier te vinden:"
+              - link "automattic.com/privacy" [ref=e133] [cursor=pointer]:
+                - /url: https://automattic.com/privacy/
+              - text: . Nadat uw reactie is goedgekeurd, is uw profielfoto zichtbaar voor het publiek in de context van uw reactie.
+          - generic [ref=e134]:
+            - heading "Media" [level=4] [ref=e135]
+            - paragraph [ref=e136]:
+              - text: Als u afbeeldingen naar de website uploadt, moet u voorkomen dat u afbeeldingen uploadt met ingesloten locatiegegevens (
+              - code [ref=e137]: EXIF GPS
+              - text: ). Bezoekers van de website kunnen locatiegegevens uit afbeeldingen op de website downloaden en extraheren.
+          - generic [ref=e138]:
+            - heading "Cookies" [level=4] [ref=e139]
+            - paragraph [ref=e140]: Als u een reactie achterlaat op onze site, kunt u ervoor kiezen om uw naam, e-mailadres en website in cookies op te slaan. Dit is voor uw gemak, zodat u deze gegevens niet opnieuw hoeft in te vullen bij een nieuwe reactie. Deze cookies zijn een jaar geldig.
+            - paragraph [ref=e141]: Als u onze inlogpagina bezoekt, plaatsen we een tijdelijke cookie om te bepalen of uw browser cookies accepteert. Deze cookie bevat geen persoonlijke gegevens en wordt verwijderd zodra u uw browser sluit.
+            - paragraph [ref=e142]: Wanneer u inlogt, plaatsen we ook enkele cookies om uw inloggegevens en uw schermweergaveopties op te slaan. Inlogcookies blijven twee dagen geldig en cookies voor schermweergaveopties een jaar. Als u “Onthoud mij” selecteert, blijft uw inloggegevens twee weken bewaard. Als u uitlogt, worden de inlogcookies verwijderd.
+            - paragraph [ref=e143]: Als u een artikel bewerkt of publiceert, wordt er een extra cookie in uw browser opgeslagen. Deze cookie bevat geen persoonlijke gegevens en geeft alleen de bericht-ID van het artikel dat u zojuist hebt bewerkt weer. Deze cookie verloopt na 1 dag.
+          - generic [ref=e144]:
+            - heading "Ingesloten content van andere websites" [level=4] [ref=e145]
+            - paragraph [ref=e146]: Artikelen op deze site kunnen ingesloten content bevatten (bijv. video’s, afbeeldingen, artikelen, enz.). Ingesloten content van andere websites gedraagt zich precies hetzelfde alsof de bezoeker de andere website heeft bezocht.
+            - paragraph [ref=e147]: Deze websites kunnen gegevens over u verzamelen, cookies gebruiken, aanvullende tracking van derden insluiten en uw interactie met die ingesloten content monitoren, inclusief het volgen van uw interactie met de ingesloten content als u een account heeft en bent ingelogd op die website.
+          - generic [ref=e148]:
+            - heading "Met wie we uw gegevens delen" [level=4] [ref=e149]
+            - paragraph [ref=e150]: Wij delen onze gegevens absoluut met niemand. Privacy is voor ons van het grootste belang. Houd er echter rekening mee dat als u een wachtwoordherstel aanvraagt, uw IP-adres wordt opgenomen in de reset-e-mail.
+          - generic [ref=e151]:
+            - heading "Hoe lang we uw gegevens bewaren" [level=4] [ref=e152]
+            - paragraph [ref=e153]: Als u een reactie achterlaat, worden de reactie en de bijbehorende metadata voor onbepaalde tijd bewaard. Dit is zodat we vervolgreacties automatisch kunnen herkennen en goedkeuren in plaats van ze te modereren.
+            - paragraph [ref=e154]: Voor gebruikers die zich registreren op onze website (indien van toepassing), bewaren we ook de persoonlijke informatie die ze in hun gebruikersprofiel opgeven. Alle gebruikers kunnen hun persoonlijke informatie op elk moment bekijken, bewerken of verwijderen (behalve dat ze hun gebruikersnaam niet kunnen wijzigen). Websitebeheerders kunnen die informatie ook bekijken en bewerken.
+          - generic [ref=e155]:
+            - heading "Welke rechten u hebt over uw gegevens" [level=4] [ref=e156]
+            - paragraph [ref=e157]: Als u een account op deze site heeft of reacties heeft achtergelaten, kunt u een exportbestand aanvragen van de persoonlijke gegevens die we over u bewaren, inclusief alle gegevens die u ons hebt verstrekt. U kunt ook verzoeken dat we alle persoonlijke gegevens die we over u bewaren, verwijderen. Dit omvat geen gegevens die we verplicht moeten bewaren voor administratieve, wettelijke of beveiligingsdoeleinden.
+          - generic [ref=e158]:
+            - heading "Waar uw gegevens naartoe worden verzonden" [level=4] [ref=e159]
+            - paragraph [ref=e160]: We sturen uw gegevens absoluut niet naar elders, behalve u, wanneer u daarom vraagt. Reacties van bezoekers kunnen worden gecontroleerd via een geautomatiseerde spamdetectieservice.
+    - contentinfo [ref=e161]:
+      - generic [ref=e164]:
+        - link "Instagram" [ref=e169] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e171]
+          - generic [ref=e173]: Instagram
+        - generic [ref=e176]:
+          - paragraph [ref=e177]:
+            - text: "KvK: 86765574"
+            - text: Copyright © 2026 Cornelia Organics
+            - text: Alle rechten voorbehouden.
+          - paragraph [ref=e178]
+          - paragraph [ref=e179]
+        - generic [ref=e183]:
+          - paragraph [ref=e184]:
+            - link "Voorwaarden" [ref=e185] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+          - paragraph [ref=e186]:
+            - link "Privacybeleid" [ref=e187] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+          - paragraph [ref=e188]
+          - paragraph [ref=e189]
+          - paragraph [ref=e190]
+          - paragraph [ref=e191]
+          - paragraph [ref=e192]
+  - status [ref=e193]

@@ -1,0 +1,166 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fcontact
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "To curl" [ref=e83] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                      - generic [ref=e84]: To curl
+                  - listitem [ref=e85]:
+                    - link "Wavy" [ref=e86] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                      - generic [ref=e87]: Wavy
+                  - listitem [ref=e88]:
+                    - link "Signature Curly Highlights" [ref=e89] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                      - generic [ref=e90]: Signature Curly Highlights
+                  - listitem [ref=e91]:
+                    - link "Grey Blending" [ref=e92] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+                      - generic [ref=e93]: Grey Blending
+              - listitem [ref=e94]:
+                - link "Products Toggle Products submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e96]: Products
+                  - button "Toggle Products submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Hairdressing training" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e103]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e106]: Gallery
+              - listitem [ref=e107]:
+                - link "Shop Toggle Shop submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e109]: Shop
+                  - button "Toggle Shop submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Contact" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e116]: Contact
+          - generic [ref=e117]:
+            - region "Header Widget 1" [ref=e119]
+            - link "Instagram" [ref=e128] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e130]
+    - main [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e137]:
+          - link "Contact" [ref=e141] [cursor=pointer]:
+            - /url: "#info"
+            - generic [ref=e142]: Contact
+          - generic [ref=e144]:
+            - heading "Opening hours" [level=3] [ref=e145]:
+              - generic [ref=e146]: Opening hours
+            - heading "Wednesday" [level=5] [ref=e147]:
+              - generic [ref=e148]: Wednesday
+            - paragraph [ref=e149]:
+              - generic [ref=e150]: 10:00 – 17:00
+            - heading "Friday" [level=5] [ref=e151]:
+              - generic [ref=e152]: Friday
+            - paragraph [ref=e153]:
+              - generic [ref=e154]: 10:00 – 17:00
+            - heading "Saturday" [level=5] [ref=e155]:
+              - generic [ref=e156]: Saturday
+            - paragraph [ref=e157]:
+              - generic [ref=e158]: 09:00 – 14:00
+          - generic [ref=e159]:
+            - generic [ref=e160]:
+              - heading "Cornelia Organics" [level=4] [ref=e161]:
+                - generic [ref=e162]: Cornelia Organics
+              - paragraph [ref=e163]:
+                - generic [ref=e164]: Gallery Salon Studios
+                - generic [ref=e165]: Studio 8
+                - generic [ref=e166]: Smakkelaarshoek 5
+                - generic [ref=e167]: 3511 EC Utrecht
+              - paragraph [ref=e168]:
+                - link "info@corneliaorganics.com" [ref=e169] [cursor=pointer]:
+                  - /url: mailto:info@corneliaorganics.com
+                  - generic [ref=e170]: info@corneliaorganics.com
+              - paragraph [ref=e171]:
+                - link "06 53 88 60 82" [ref=e172] [cursor=pointer]:
+                  - /url: https://wa.me/+31653886082
+                  - generic [ref=e173]: 06 53 88 60 82
+              - generic [ref=e174]:
+                - paragraph [ref=e175]:
+                  - generic [ref=e176]: WhatsApp (please only call for cancellations on workdays between 9:00 and 10:00 AM)
+                - paragraph [ref=e177]:
+                  - generic [ref=e178]: I am usually unable to answer during a treatment, so please send an email or WhatsApp message with any questions.
+            - iframe [ref=e180]:
+              
+    - contentinfo [ref=e181]:
+      - generic [ref=e184]:
+        - link "Instagram" [ref=e189] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e191]
+          - generic [ref=e194]: Instagram
+        - generic [ref=e197]:
+          - paragraph [ref=e198]:
+            - generic [ref=e199]: "CoC: 86765574"
+            - generic [ref=e200]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e201]: All rights reserved.
+          - paragraph [ref=e202]
+          - paragraph [ref=e203]
+        - generic [ref=e207]:
+          - paragraph [ref=e208]:
+            - link "Terms and Conditions" [ref=e209] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e210]: Terms and Conditions
+          - paragraph [ref=e211]:
+            - link "Privacy Policy" [ref=e212] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e213]: Privacy Policy
+          - paragraph [ref=e214]
+          - paragraph [ref=e215]
+          - paragraph [ref=e216]
+          - paragraph [ref=e217]
+          - paragraph [ref=e218]
+  - status [ref=e219]

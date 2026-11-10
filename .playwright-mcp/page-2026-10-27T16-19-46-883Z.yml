@@ -1,0 +1,181 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fkapperstrainingen
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "To curl" [ref=e83] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                      - generic [ref=e84]: To curl
+                  - listitem [ref=e85]:
+                    - link "Wavy" [ref=e86] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                      - generic [ref=e87]: Wavy
+                  - listitem [ref=e88]:
+                    - link "Signature Curly Highlights" [ref=e89] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                      - generic [ref=e90]: Signature Curly Highlights
+                  - listitem [ref=e91]:
+                    - link "Grey Blending" [ref=e92] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+                      - generic [ref=e93]: Grey Blending
+              - listitem [ref=e94]:
+                - link "Products Toggle Products submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e96]: Products
+                  - button "Toggle Products submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Hairdressing training" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e103]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e106]: Gallery
+              - listitem [ref=e107]:
+                - link "Shop Toggle Shop submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e109]: Shop
+                  - button "Toggle Shop submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Contact" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e116]: Contact
+          - generic [ref=e117]:
+            - region "Header Widget 1" [ref=e119]
+            - link "Instagram" [ref=e128] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e130]
+    - main [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e137]:
+          - generic [ref=e139]:
+            - heading "Hairdressing training" [level=2] [ref=e142]:
+              - generic [ref=e143]: Hairdressing training
+            - figure [ref=e146]
+          - generic [ref=e148]:
+            - heading "With over 20 years of experience in the hairdressing profession, I have a wealth of knowledge that I am happy to share." [level=4] [ref=e149]:
+              - generic [ref=e150]: With over 20 years of experience in the hairdressing profession, I have a wealth of knowledge that I am happy to share.
+            - paragraph [ref=e151]:
+              - generic [ref=e152]: A few years ago, I developed the CorneliaCurls method, a clear and straightforward technique for dry cutting curls. I believe that this is the very best way to cut curly hair.
+            - paragraph [ref=e153]:
+              - generic [ref=e154]: You will learn how to cut dry hair curl by curl. Additionally, you will learn the cleansing, conditioning, and styling techniques that complete the treatment. I work with eco products from Innersense Organic Beauty. As an Innersense Organic Pro Educator, I will provide you with all the tips to get started as an Eco Curl Specialist.
+            - paragraph [ref=e155]:
+              - generic [ref=e156]: Would you like to offer your clients a specialization in curly hair? And do you want to get started confidently with cutting and styling curls? Then you can come to Cornelia Organics for training in my salon studio in the heart of Utrecht.
+          - generic [ref=e158]:
+            - figure [ref=e160]:
+              - img "Innersense Education" [ref=e161]
+            - generic [ref=e162]:
+              - heading "The training consists of:" [level=5] [ref=e163]:
+                - generic [ref=e164]: "The training consists of:"
+              - list [ref=e165]:
+                - listitem [ref=e166]:
+                  - generic [ref=e167]: Theory on different types of curls
+                - listitem [ref=e168]:
+                  - generic [ref=e169]: Innersense Organic Beauty product training
+                - listitem [ref=e170]:
+                  - generic [ref=e171]: Look & learn CorneliaCurls technique
+                - listitem [ref=e172]:
+                  - generic [ref=e173]: Lunch
+                - listitem [ref=e174]:
+                  - generic [ref=e175]: CorneliaCurls cutting technique on a model or practice head
+                - listitem [ref=e176]:
+                  - generic [ref=e177]: Care
+                - listitem [ref=e178]:
+                  - generic [ref=e179]: Styling and drying with a diffuser
+                - listitem [ref=e180]:
+                  - generic [ref=e181]: Certificate of participation
+                - listitem [ref=e182]:
+                  - generic [ref=e183]: Goodie bag from Innersense Organic Beauty
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - paragraph [ref=e187]:
+                - generic [ref=e188]: 1-day training, Monday or Tuesday from 10:00 to 16:30, including lunch.
+              - paragraph [ref=e189]:
+                - generic [ref=e190]: In the afternoon, you will get to work on your own model. This training does not include lunch for your model, but this can be arranged for an additional fee. If you do not bring a model, we can provide a mannequin head.
+              - paragraph [ref=e191]:
+                - generic [ref=e192]: "Cost:"
+                - strong [ref=e193]:
+                  - generic [ref=e194]: €825 excluding VAT.
+              - paragraph [ref=e195]:
+                - generic [ref=e196]: "More info or to register:"
+                - link "training@corneliaorganics.com" [ref=e197] [cursor=pointer]:
+                  - /url: mailto:training@corneliaorganics.com
+                  - generic [ref=e198]: training@corneliaorganics.com
+            - figure [ref=e200]
+          - link "Contact" [ref=e204] [cursor=pointer]:
+            - /url: mailto:training@corneliaorganics.com
+            - generic [ref=e205]: Contact
+    - contentinfo [ref=e206]:
+      - generic [ref=e209]:
+        - link "Instagram" [ref=e214] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e216]
+          - generic [ref=e219]: Instagram
+        - generic [ref=e222]:
+          - paragraph [ref=e223]:
+            - generic [ref=e224]: "CoC: 86765574"
+            - generic [ref=e225]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e226]: All rights reserved.
+          - paragraph [ref=e227]
+          - paragraph [ref=e228]
+        - generic [ref=e232]:
+          - paragraph [ref=e233]:
+            - link "Terms and Conditions" [ref=e234] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e235]: Terms and Conditions
+          - paragraph [ref=e236]:
+            - link "Privacy Policy" [ref=e237] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e238]: Privacy Policy
+          - paragraph [ref=e239]
+          - paragraph [ref=e240]
+          - paragraph [ref=e241]
+          - paragraph [ref=e242]
+          - paragraph [ref=e243]
+  - status [ref=e244]

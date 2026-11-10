@@ -1,0 +1,24 @@
+# Local IDE Workspace & Project Configuration
+.vscode/
+*.code-workspace
+
+# Authentication & Session States
+.env
+playwright/.auth/
+playwright\.auth/
+
+# Block all session JSONs but KEEP core config files
+*.json
+!tsconfig.json
+!playwright.config.json
+
+# Local Sitemaps & URL Manifests
+sitemap/
+sitemap.html
+sitemap.xml
+sitemap.xml.gz
+urllist.txt
+
+# Local Testing Scripts & Client Spec Exclusions
+tests/seed.spec.ts
+specs/cornelia-homepage-smoke.md

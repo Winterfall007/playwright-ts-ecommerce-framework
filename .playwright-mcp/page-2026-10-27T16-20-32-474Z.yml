@@ -1,0 +1,164 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+    - generic [ref=e3]: Skip to content
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]:
+          - generic [ref=e13]:
+            - link "Cornelia Organics" [ref=e15] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/
+              - img "Cornelia Organics" [ref=e16]
+            - generic [ref=e17]:
+              - link "Cornelia Organics" [ref=e19] [cursor=pointer]:
+                - /url: https://corneliaorganics.com/
+                - generic [ref=e20]: Cornelia Organics
+              - paragraph [ref=e21]:
+                - generic [ref=e22]: Curly Hair Specialist of Utrecht | Eco Salon
+          - button "Make an appointment" [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: Make an appointment
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link "Account icon link" [ref=e36] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/wp-login.php?redirect_to=https%3A%2F%2Fcorneliaorganics.com%2Fgreyblending
+              - img [ref=e38]
+            - link "View Shopping Cart, empty" [ref=e44] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/cart/
+              - generic [ref=e46]:
+                - img [ref=e48]
+                - text: "0"
+            - button "Search button" [ref=e53] [cursor=pointer]:
+              - generic [ref=e55]: To search
+              - img [ref=e57]
+          - navigation "Primary site navigation" [ref=e64]:
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link "Home Toggle Home submenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/
+                  - generic [ref=e69]: Home
+                  - button "Toggle Home submenu" [ref=e70]:
+                    - img [ref=e72]
+              - listitem [ref=e74]:
+                - link "Treatments Toggle Treatments submenu" [ref=e75] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/behandelingen/
+                  - generic [ref=e76]: Treatments
+                  - button "Toggle Treatments submenu" [ref=e77]:
+                    - img [ref=e79]
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "To curl" [ref=e83] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/krullen/
+                      - generic [ref=e84]: To curl
+                  - listitem [ref=e85]:
+                    - link "Wavy" [ref=e86] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/wavy/
+                      - generic [ref=e87]: Wavy
+                  - listitem [ref=e88]:
+                    - link "Signature Curly Highlights" [ref=e89] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/signature-curly-hightlights/
+                      - generic [ref=e90]: Signature Curly Highlights
+                  - listitem [ref=e91]:
+                    - link "Grey Blending" [ref=e92] [cursor=pointer]:
+                      - /url: https://corneliaorganics.com/greyblending/
+                      - generic [ref=e93]: Grey Blending
+              - listitem [ref=e94]:
+                - link "Products Toggle Products submenu" [ref=e95] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/producten/
+                  - generic [ref=e96]: Products
+                  - button "Toggle Products submenu" [ref=e97]:
+                    - img [ref=e99]
+              - listitem [ref=e101]:
+                - link "Hairdressing training" [ref=e102] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/kapperstrainingen/
+                  - generic [ref=e103]: Hairdressing training
+              - listitem [ref=e104]:
+                - link "Gallery" [ref=e105] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/galerij/
+                  - generic [ref=e106]: Gallery
+              - listitem [ref=e107]:
+                - link "Shop Toggle Shop submenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/shop/
+                  - generic [ref=e109]: Shop
+                  - button "Toggle Shop submenu" [ref=e110]:
+                    - img [ref=e112]
+              - listitem [ref=e114]:
+                - link "Contact" [ref=e115] [cursor=pointer]:
+                  - /url: https://corneliaorganics.com/contact/
+                  - generic [ref=e116]: Contact
+          - generic [ref=e117]:
+            - region "Header Widget 1" [ref=e119]
+            - link "Instagram" [ref=e128] [cursor=pointer]:
+              - /url: https://www.instagram.com/cornelia.organics/
+              - img [ref=e130]
+    - main [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e137]:
+          - generic [ref=e139]:
+            - heading "Grey Blending" [level=2] [ref=e142]:
+              - generic [ref=e143]: Grey Blending
+            - figure [ref=e146]
+          - generic [ref=e148]:
+            - figure [ref=e150]
+            - generic [ref=e151]:
+              - heading "Embrace your gray without stopping coloring altogether." [level=4] [ref=e152]:
+                - generic [ref=e153]: Embrace your gray without stopping coloring altogether.
+              - paragraph [ref=e154]:
+                - generic [ref=e155]: Grey Blending is a coloring technique that mixes or blends gray with your own hair color. You don't completely hide your gray hairs, but you get a softer effect because fewer gray hairs are visible.
+              - paragraph [ref=e156]:
+                - generic [ref=e157]: You get less harsh regrowth because we don't color over all your gray. As a result, you also need to color less often.
+          - generic [ref=e159]:
+            - generic [ref=e160]:
+              - paragraph [ref=e161]:
+                - generic [ref=e162]: A Grey Blending almost always begins with a major transformation treatment. During this color session, I often use multiple techniques such as highlights, lowlights, and a toner.
+              - paragraph [ref=e163]:
+                - generic [ref=e164]: You will see a big difference after this coloring session, such as a softer color transition from your gray to the still-colored ends and a cooler shade instead of a lot of warmth.
+              - paragraph [ref=e165]:
+                - generic [ref=e166]: After this transformation, your own gray will already look softer. Follow-up appointments will yield an increasingly natural result.
+              - paragraph [ref=e167]:
+                - generic [ref=e168]: And after a while, you keep your color looking beautiful with a Grey Refresh. This way, you retain your shine, and we refresh your color and hair.
+            - figure [ref=e170]
+          - generic [ref=e172]:
+            - figure [ref=e174]
+            - generic [ref=e175]:
+              - paragraph [ref=e176]:
+                - generic [ref=e177]: Grey blending is a refined and extensive process and requires time and patience.
+              - paragraph [ref=e178]:
+                - generic [ref=e179]: Are you unsure what is possible for your hair? And whether Grey Blending suits you? Then book a consultation so we can look together at what looks best on your hair and what the possibilities are with my techniques. I will give you honest advice and a timeline to achieve a beautiful end result.
+              - paragraph [ref=e180]:
+                - generic [ref=e181]: A consultation costs €85 and lasts 60 minutes. This amount will only be deducted from the final price if you book an actual Grey Blending Treatment.
+          - generic [ref=e182]:
+            - link "discover More" [ref=e184] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=842
+              - generic [ref=e185]: discover More
+            - link "Make an Appointment" [ref=e187] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/afspraken
+              - generic [ref=e188]: Make an Appointment
+    - contentinfo [ref=e189]:
+      - generic [ref=e192]:
+        - link "Instagram" [ref=e197] [cursor=pointer]:
+          - /url: https://instagram.com/cornelia.organics
+          - img [ref=e199]
+          - generic [ref=e202]: Instagram
+        - generic [ref=e205]:
+          - paragraph [ref=e206]:
+            - generic [ref=e207]: "CoC: 86765574"
+            - generic [ref=e208]: Copyright © 2026 Cornelia Organics
+            - generic [ref=e209]: All rights reserved.
+          - paragraph [ref=e210]
+          - paragraph [ref=e211]
+        - generic [ref=e215]:
+          - paragraph [ref=e216]:
+            - link "Terms and Conditions" [ref=e217] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/?page_id=2077
+              - generic [ref=e218]: Terms and Conditions
+          - paragraph [ref=e219]:
+            - link "Privacy Policy" [ref=e220] [cursor=pointer]:
+              - /url: https://corneliaorganics.com/privacybeleid/
+              - generic [ref=e221]: Privacy Policy
+          - paragraph [ref=e222]
+          - paragraph [ref=e223]
+          - paragraph [ref=e224]
+          - paragraph [ref=e225]
+          - paragraph [ref=e226]
+  - status [ref=e227]
