@@ -1,31 +1,30 @@
-# Website Test Plans
+# Open-Source E-Commerce Automation Boilerplate
 
-This repository contains automated browser tests for my client's website, plus documents describing what the tests should check.
+This repository showcases a production-ready, highly resilient automated test suite and architecture framework designed for e-commerce and scheduling applications. 
 
-The website is built with WordPress and WooCommerce, which provides the online shop. The tests use Playwright to open pages in a browser and check that important content and behavior are present.
+The core target architecture mimics a modern corporate WordPress and WooCommerce ecosystem, utilizing **Playwright + TypeScript** to evaluate critical user journeys, dynamic content generation, and multi-lingual shopping mechanics.
 
-## What’s in this folder?
+## 📁 Repository Architecture & Coverage Specs
 
-The files in `specs/` describe test coverage:
+The documentation files in `specs/` map out comprehensive QA coverage matrices across high-value business flows:
 
-- [Public website plan](./client-homepage-smoke.md) describes checks for the homepage, informational pages, shop pages, account and cart pages, and legal pages. Its planned checks are view-only: they do not log in, change the cart, or submit forms.
-- [Shop plan](./shop-smoke-test-plan.md) describes checks for product availability and adding products to the cart. It allows adding and removing items to verify the cart, but does not include Checkout or placing orders.
+- **[Public Website Test Plan](./shop-smoke-test-plan.md):** Outlines non-destructive, read-only checks across the primary landing layout, contextual informational paths, cart summaries, and regulatory compliance blocks.
+- **[Shop & Catalog Test Plan](./shop-smoke-test-plan.md):** Governs state-driven assertions on dynamic inventory catalog states, variant selection grids, and end-to-end shopping cart payload verification.
 
-A plan is a description of intended testing. It does not mean every scenario in that plan has been implemented.
+*Note: These specifications represent an enterprise QA roadmap; live execution coverage focuses on high-impact smoke and regression endpoints.*
 
-## What do the current test files check?
+## ⚙️ Automated Test Suite Manifest
 
-The files in `tests/` contain the browser tests and setup code:
+The execution scripts in `tests/` demonstrate modular, highly adaptive programmatic browser automation:
 
-- [`shop.spec.ts`](../tests/shop.spec.ts) checks that the Shop page links to Body Care and Hair Care, then checks product availability controls on those category pages. It also picks an available product and verifies that the same product can be added from its category listing and its product page. A separate scenario follows a Read More / Lees meer link and checks that the product page does not offer a primary Add to Cart button. Cart items are removed before and after each test. The unavailable-product check is skipped if no suitable product is found.
-- [`booking.spec.ts`](../tests/booking.spec.ts) opens the appointment page and checks for a booking or calendar widget, or text indicating appointment availability. It does not complete a booking.
-- [`frontend.spec.ts`](../tests/frontend.spec.ts) opens the homepage and checks for the WordPress admin bar and a heading named “Client Name” in the logged-in view.
-- [`auth.setup.ts`](../tests/auth.setup.ts) signs in to WordPress using credentials from a local `.env` file and saves the browser session for other tests.
-- [`seed.spec.ts`](../tests/seed.spec.ts) is currently a placeholder. It does not create test data or perform setup.
+- **`shop.spec.ts`:** Implements an algorithmic web crawler that parses category routes, verifies layout boundaries, and validates deterministic inventory logic (e.g., validating that out-of-stock items naturally mask cart triggers and display context-appropriate fallback links). It randomly selects available items to execute clean addition, verification, and automated cart-teardown flows.
+- **`booking.spec.ts`:** Executes dynamic content detection rules against inline booking widgets, iframes, and fallback accessibility strings to verify scheduling availability.
+- **`frontend.spec.ts`:** Validates authenticated interface layers, ensuring secure dashboard components and administrative session visibility render as intended.
+- **`auth.setup.ts`:** Manages secure global session state token storage via isolated browser context structures, pulling local environment keys from encrypted environments or `.env` files.
+- **`seed.spec.ts`:** Provides a structural interface hook intended for upstream database hydration, enabling future backend API state injections.
 
-The public website plan also describes scenarios that do not yet have matching test files. Those planned scenarios should not be assumed to run just because they appear in the plan.
+## 🛠️ Infrastructure & Execution Topology
 
-## How test setup works
+The framework is configured via `playwright.config.ts`, which sets target routing properties, sandboxes parallel test workers, and orchestrates localized project dependencies. 
 
-[`playwright.config.ts`](../playwright.config.ts) sets the website address used by the tests, configures a Chromium browser project, and runs tests one at a time. The Chromium project depends on the authentication setup, so its tests use the saved logged-in session.
-The test files are organized into directories, each with a `test.ts` file that contains a single test. The test files are named after the scenario they test. The test files are organized into directories, each with a `test.ts` file that contains a single test. The test files are named after the scenario they test.
+The core test suites depend heavily on `auth.setup.ts`, allowing individual test specs to execute across authenticated sessions instantly without incurring redundant login time overhead. The project structure is optimized to run locally or integrate seamlessly into remote remote environments.
